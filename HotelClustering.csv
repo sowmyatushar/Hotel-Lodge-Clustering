@@ -1,0 +1,924 @@
+nama,bintang,daerah,kota,wifi,spa,restaurant,kolam_renang,bar,harga,rating,fasilitas,cluster
+Imperium Hotel Bandung,3,Cicendo,Bandung,1,0,1,1,0,164463,6.8,3,2
+Aston Pasteur,4,Sukajadi,Bandung,1,0,1,1,1,578000,8.8,4,1
+POP! Hotel Bandung Festival CityLink - Bandung,2,Bojongloa Kaler,Bandung,1,0,0,1,0,349380,8.2,2,3
+Grand Tjokro Bandung,4,Coblong,Bandung,1,1,1,1,1,734786,8.8,5,1
+eL Hotel Royale Bandung,4,Sumur Bandung,Bandung,1,1,1,0,1,479338,8.9,4,1
+Yello Hotel Paskal Bandung,3,Andir,Bandung,1,0,1,1,0,403305,9.4,3,2
+The Papandayan Hotel,5,Lengkong,Bandung,1,1,1,1,1,739500,9.6,5,1
+Novena Hotel Bandung,3,Lembang,Bandung,1,0,1,1,0,482826,8.9,3,2
+De Paviljoen Bandung By HIM,4,Bandung Wetan,Bandung,1,1,1,1,1,616363,9.1,5,1
+FOX Harris Lite Hotel Metro Indah,3,Buahbatu,Bandung,1,1,1,0,0,367768,8.7,3,2
+de Braga by Artotel,4,Sumur Bandung,Bandung,1,1,1,1,1,652905,9.1,5,1
+THE 1O1 Bandung Dago,4,Bandung Wetan,Bandung,1,1,1,0,1,413223,8.9,4,1
+Atlantic City Hotel,3,Cicendo,Bandung,1,1,1,0,1,318967,8.4,4,2
+HARRIS Hotel & Conventions Ciumbuleuit Bandung,4,Cidadap,Bandung,1,1,1,1,1,516528,9.0,5,1
+Tamansari Panoramic,2,Arcamanik,Bandung,1,0,1,1,1,119421,7.6,4,2
+Ibis Budget Bandung Asia Afrika,2,Lengkong,Bandung,1,0,1,0,0,288000,8.8,2,3
+The Salis Hotel Setiabudi,3,Cidadap,Bandung,1,0,1,0,0,206612,8.4,2,3
+V Hotel & Residence,3,Sukajadi,Bandung,1,1,1,1,0,246281,8.2,4,2
+Clove Garden Hotel & Residences,4,Cimenyan,Bandung,1,0,1,1,0,392561,8.2,3,2
+Airy Eco Raya Lembang 51 Bandung,2,Lembang,Bandung,1,0,0,0,0,155603,9.1,1,3
+Meize Hotel Bandung,3,Sumur Bandung,Bandung,1,1,0,0,0,237190,8.4,2,3
+RedDoorz Plus @ Cihampelas 3,2,Coblong,Bandung,1,1,0,1,0,157024,8.0,3,2
+favehotel Premier Cihampelas,3,Coblong,Bandung,1,1,1,1,0,368000,8.2,4,2
+Aryaduta Bandung,4,Bandung Wetan,Bandung,1,0,1,1,1,737396,9.1,4,1
+Grand Cordela Hotel Bandung,3,Cinambo,Bandung,1,1,1,1,1,289256,8.7,5,1
+Swiss-Belresort Dago Heritage,4,Dago,Bandung,1,0,1,1,1,818181,9.5,4,1
+The Valley Resort Hotel,4,Cimenyan,Bandung,1,1,1,1,1,520661,9.3,5,1
+Grand Asrilia Hotel Convention & Restaurant,4,Lengkong,Bandung,1,0,1,1,1,351240,8.5,4,1
+Kedaton Hotel,3,Sumur Bandung,Bandung,1,1,1,1,1,372398,8.8,5,1
+Best Western Premier La Grande,4,Sumur Bandung,Bandung,1,1,1,1,1,587272,9.0,5,1
+Tebu Hotel Bandung,3,Riau,Bandung,1,0,1,0,0,345455,8.6,2,3
+El Cavana Hotel,3,Andir,Bandung,1,1,1,1,1,399360,8.3,5,1
+Grandia Hotel Bandung,4,Bandung Wetan,Bandung,1,1,1,1,1,483174,8.6,5,1
+Hotel Savoy Homann,4,Lengkong,Bandung,1,1,1,1,1,540909,9.1,5,1
+Aston Tropicana,4,Coblong,Bandung,1,1,1,1,1,848000,8.7,5,1
+Grand Sovia Hotel,3,Cicendo,Bandung,1,1,1,1,1,378512,8.3,5,1
+The Luxton Bandung,4,Bandung Wetan,Bandung,1,1,1,1,1,619834,8.6,5,1
+GH Universal Hotel,5,Cidadap,Bandung,1,1,1,1,1,1030992,8.8,5,1
+Zest Hotel Sukajadi Bandung,3,Sukajadi,Bandung,1,0,1,0,0,290347,9.0,2,3
+Sudirman Suite,3,Andir,Bandung,1,0,1,1,1,196281,8.2,4,2
+Shakti Hotel Bandung,4,Soekarno Hatta Bypass,Bandung,1,1,1,1,0,338842,8.4,4,1
+Grand Mercure Bandung Setiabudi,5,Cidadap,Bandung,1,1,1,1,1,829710,9.4,5,1
+The Green Forest Resort,4,Parongpong,Bandung,1,0,1,1,1,473514,8.6,4,1
+Marbella Hotel Dago Bandung,4,Cimenyan,Bandung,1,1,1,1,1,432024,8.2,5,1
+favehotel Hyper Square Bandung,3,Andir,Bandung,1,1,1,0,0,348000,8.2,3,2
+Sensa Hotel,4,Cihampelas,Bandung,1,1,1,1,1,667769,10.0,5,1
+Prama Grand Preanger Bandung,5,Sumur Bandung,Bandung,1,0,1,1,1,641710,9.0,4,1
+Holiday Inn Pasteur Bandung,4,Sukajadi,Bandung,1,1,1,1,1,583538,9.0,5,1
+The Jayakarta Bandung Boutique Suite Hotel & Spa,4,Coblong,Bandung,1,1,1,1,1,451239,8.4,5,1
+Hay Bandung,4,Riau,Bandung,1,0,1,0,1,386364,8.6,3,2
+Travello Hotel Bandung,4,Cidadap,Bandung,1,1,1,1,1,454545,8.9,5,1
+Vio Hotel Pasteur,2,Sukajadi,Bandung,1,0,0,0,0,289256,8.5,1,3
+Bali World Hotel,3,Buahbatu,Bandung,1,1,1,1,1,297521,7.8,5,1
+Ciwidey Valley Resort Hot Spring Waterpark,3,Rancabali,Bandung,1,0,1,1,0,661157,8.9,3,2
+Aston Braga Hotel & Residence Bandung,4,Sumur Bandung,Bandung,1,1,1,1,1,558512,8.8,5,1
+Villa Diamond,0,Parongpong,Bandung,1,0,0,0,0,165289,8.4,1,4
+Hotel Citradream Bandung,2,Cicendo,Bandung,1,0,1,0,0,245454,8.6,2,3
+Simply Valore Hotel,3,Cimahi,Bandung,1,0,1,1,1,247107,7.8,4,2
+Art Deco Luxury Hotel & Residence,4,Cidadap,Bandung,1,1,1,1,1,661157,9.0,5,1
+Ibis Styles Bandung Braga,3,Sumur Bandung,Bandung,1,1,1,1,1,490900,9.2,5,1
+Vio Westhoff,2,Cicendo,Bandung,1,0,0,0,0,231404,8.4,1,3
+Mutiara Hotel Bandung,3,Cicendo,Bandung,1,0,1,1,0,265151,8.6,3,2
+FOX HARRIS City Center Bandung,4,Sumur Bandung,Bandung,1,1,1,1,1,463223,8.7,5,1
+Garden Permata Hotel,4,Sukajadi,Bandung,1,1,1,1,1,791279,8.6,5,1
+Zodiak @Asia Afrika Hotel,2,Regol,Bandung,1,0,1,0,0,268595,8.1,2,3
+Ibis Bandung Pasteur,3,Sukajadi,Bandung,1,0,1,0,1,380165,8.8,3,2
+Geary Hotel Bandung,3,Cicendo,Bandung,1,0,1,0,0,322314,9.0,2,3
+PRIME PARK Hotel Bandung,4,Cibeunying Kaler,Bandung,1,1,1,1,1,454545,8.7,5,1
+Hotel Nyland Pasteur,3,Cicendo,Bandung,1,0,1,1,0,291529,8.1,3,2
+Gino Feruci Braga,4,Sumur Bandung,Bandung,1,1,1,1,1,428512,7.7,5,1
+Hotel Dafam Rio,3,Sumur Bandung,Bandung,1,1,1,0,0,278117,8.6,3,2
+New Sany Rosa Hotel,3,Cidadap,Bandung,1,1,1,1,0,403957,8.5,4,2
+West Point Hotel,4,Andir,Bandung,1,1,1,1,1,471074,8.9,5,1
+Grand Aquila Hotel,5,Sukajadi,Bandung,1,1,1,1,1,626446,9.2,5,1
+Serela Cihampelas Hotel,3,Coblong,Bandung,1,1,1,0,1,433884,8.4,4,2
+Grand Tebu Hotel,4,Bandung Wetan,Bandung,1,0,1,1,0,601653,8.8,3,2
+Zodiak @Kebon Kawung,2,Cicendo,Bandung,1,1,1,0,1,241736,8.0,4,2
+The Suites Metro Apartment By Yudis,3,Buahbatu,Bandung,0,1,1,1,1,153719,8.3,4,2
+De'Rain Hotel Bandung,3,Lengkong,Bandung,1,1,1,0,0,318182,8.7,3,2
+Arion Swiss-Belhotel Bandung,4,Cicendo,Bandung,1,1,1,1,1,464462,8.4,5,1
+Hotel 88 Kopo Bandung,2,Babakan Ciparay,Bandung,1,0,1,0,0,314050,8.5,2,3
+Hotel Citarum,2,Bandung Wetan,Bandung,1,0,1,1,1,340303,9.1,4,2
+Banana Inn Hotel,4,Sukasari,Bandung,1,1,1,1,1,500000,8.4,5,1
+U Janevalla Bandung,4,Sumur Bandung,Bandung,1,0,1,1,1,654743,9.2,4,1
+RedDoorz Premium @ Ciumbuleuit Atas,4,Cidadap,Bandung,1,0,0,0,0,198347,9.2,1,3
+OYO 483 Flagship Tamansari Panoramic Bandung,2,Soekarno Hatta Bypass,Bandung,1,0,1,1,1,312396,8.8,4,2
+Naval Hotel,2,Sukajadi,Bandung,1,0,1,0,0,228099,8.2,2,3
+Summer Hills Hotel & Villas Bandung,4,Sukajadi,Bandung,1,1,1,1,1,284297,7.8,5,1
+favehotel Braga Bandung,3,Sumur Bandung,Bandung,1,1,1,0,0,328000,7.9,3,2
+Amaris Hotel Cihampelas,2,Coblong,Bandung,1,0,1,0,0,295041,8.2,2,3
+Vio Veteran,2,Sumur Bandung,Bandung,1,0,0,0,0,231404,7.8,1,3
+Imah Seniman,3,Lembang,Bandung,1,0,1,1,0,351240,8.0,3,2
+Mason Pine Hotel Bandung,4,Padalarang,Bandung,1,1,1,1,1,851239,9.2,5,1
+DBest Hotel Sofia Dago,3,Coblong,Bandung,1,1,1,1,1,322314,8.6,5,1
+The Majesty Hotel,4,Sukajadi,Bandung,1,1,1,1,1,345191,8.4,5,1
+Bukit Dago Hotel,1,Coblong,Bandung,0,0,1,0,0,161157,8.6,1,4
+Moscato Hotel & Cafe,3,Sukasari,Bandung,1,1,1,0,1,322314,8.5,4,2
+Ardan Hotel,3,Sukajadi,Bandung,1,0,1,0,1,347107,8.5,3,2
+Kytos Hotel,3,Sukasari,Bandung,1,0,1,0,0,297521,8.6,2,3
+Hotel Riau Bandung,2,Bandung Wetan,Bandung,1,0,1,0,0,211983,8.5,2,3
+OYO 167 Dago's Hill Hotel,2,Coblong,Bandung,1,0,0,0,1,192517,9.0,2,3
+Galeri Ciumbuleuit Hotel,4,Cidadap,Bandung,1,0,1,1,1,442750,8.5,4,1
+InterContinental Bandung Dago Pakar,5,Dago Atas,Bandung,1,1,1,1,1,968524,9.3,5,1
+Villa Chocolate,0,Parongpong,Bandung,1,0,1,0,0,206612,8.1,2,4
+The Suites Metro Apartment By Ira Prisma,3,Buahbatu,Bandung,0,0,0,0,0,144628,7.5,0,3
+NEO Dipatiukur Bandung,3,Coblong,Bandung,1,0,1,0,1,388000,8.6,3,2
+Padma Hotel Bandung,5,Ciumbuleuit,Bandung,1,0,1,1,0,1363636,9.6,3,1
+Kollektiv Hotel,3,Sukasari,Bandung,1,0,1,0,0,396694,8.8,2,3
+Accordia Dago Hotel,2,Coblong,Bandung,0,0,0,0,0,232438,7.9,0,3
+Sky City Home Guest House,0,Coblong,Bandung,1,0,0,0,0,140083,8.2,1,4
+Excellent Seven Hotel,3,Cicendo,Bandung,1,1,1,0,1,231405,7.8,4,2
+Grand Hotel Lembang,3,Lembang,Bandung,1,0,1,1,1,330579,7.5,4,2
+Serela Riau Bandung,3,Bandung Wetan,Bandung,1,1,1,0,1,329669,7.8,4,2
+Verona Palace Hotel,3,Sukajadi,Bandung,1,0,1,0,0,347107,8.6,2,3
+Grand Paradise Hotel,3,Lembang,Bandung,1,1,1,1,0,423140,8.0,4,2
+Amaroossa Bandung,4,Riau,Bandung,1,1,1,1,1,578512,8.1,5,1
+Hotel Benua,2,Lengkong,Bandung,1,0,1,0,0,190083,8.2,2,3
+Amira Hotel,2,Sukajadi,Bandung,1,0,1,0,0,231405,8.2,2,3
+Grand Guci Hotel,3,Cicendo,Bandung,1,1,1,1,1,371901,8.9,5,1
+The Newton Hotel,3,Bandung Wetan,Bandung,1,0,1,1,0,360744,8.0,3,2
+Vio Hotel Surapati,2,Coblong,Bandung,1,0,1,0,0,272727,8.6,2,3
+Grand Amellia Hotel,0,Sukasari,Bandung,1,0,0,0,0,107438,8.0,1,4
+Sutan Raja Hotel & Convention Center,4,Soreang,Bandung,1,0,1,1,1,495868,8.8,4,1
+Vio Hotel Cimanuk,2,Bandung Wetan,Bandung,1,0,0,0,0,272727,8.8,1,3
+Hotel Lingga Bandung,3,Bandung Kidul,Bandung,1,0,1,0,0,264462,8.1,2,3
+BTC Hotel,3,Cicendo,Bandung,1,1,1,0,0,387420,8.6,3,2
+RedDoorz @ Malabar Street,2,Batununggal,Bandung,1,0,0,0,0,125620,9.8,1,3
+Grand Setiabudi Hotel,4,Cidadap,Bandung,1,1,1,1,1,383546,8.9,5,1
+Regata Hotel,4,Sukajadi,Bandung,1,0,1,1,1,661157,9.1,4,1
+Sawunggaling Hotel,2,Bandung Wetan,Bandung,1,0,1,0,1,264463,8.7,3,2
+Bobobox Pods Paskal,0,Cicendo,Bandung,1,0,0,0,1,140578,9.4,2,4
+Smart Room Near Pasteur,0,Sukasari,Bandung,1,0,0,0,0,133884,8.6,1,4
+Bantal Guling Asia Afrika,0,Regol,Bandung,1,0,0,0,0,133884,8.4,1,4
+SanGria Resort & Spa,4,Lembang,Bandung,1,1,1,0,0,915702,7.8,3,2
+Grand Viveana Hotel,3,Cicendo,Bandung,1,0,1,0,1,347107,9.2,3,2
+Kalya Hotel Bandung,3,Coblong,Bandung,1,0,1,0,0,314050,8.4,2,3
+Wirton Dago Hotel,2,Coblong,Bandung,1,0,1,0,0,209090,7.6,2,3
+Suria City Hotel,0,Lengkong,Bandung,1,0,1,1,0,206612,8.0,3,4
+OYO 295 Grha Ciumbuleuit Guest House,3,Ciumbuleuit,Bandung,1,0,0,0,0,228386,8.8,1,3
+Fabu Hotel Bandung,3,Andir,Bandung,1,0,1,0,0,287603,8.2,2,3
+Dago Highland Resort & Spa,3,Cimenyan,Bandung,1,1,1,1,0,302273,7.2,4,2
+The Suites Metro Apartment By King Property,3,Buahbatu,Bandung,1,0,1,1,1,145455,8.3,4,2
+Serela Merdeka Hotel,3,Bandung Kota,Bandung,1,0,1,0,1,325413,8.0,3,2
+House Sangkuriang,3,Coblong,Bandung,1,0,1,1,1,454545,8.6,4,2
+Sheo Hotel,3,Cidadap,Bandung,1,0,0,0,0,223140,8.3,1,3
+The Palais Dago Hotel,3,Coblong,Bandung,1,0,1,0,0,252893,8.6,2,3
+Jadul Village Resort,4,Parongpong,Bandung,1,0,1,0,1,661156,8.8,3,2
+Jayagiri Guesthouse,1,Lembang,Bandung,1,0,0,0,1,214876,9.3,2,4
+The Peak Home Boutique Hotel,3,Parongpong,Bandung,1,0,1,1,1,413223,8.6,4,2
+Amaris Hotel Setiabudhi Bandung,2,Sukasari,Bandung,1,0,1,0,0,282645,8.7,2,3
+Blackbird Hotel Bandung,3,Parongpong,Bandung,1,0,1,1,0,495868,8.8,3,2
+Grand Serela Setiabudhi Bandung,4,Cidadap,Bandung,1,1,1,1,0,433884,7.9,4,1
+Sukajadi Hotel and Gallery,3,Sukajadi,Bandung,1,0,1,1,0,321969,8.3,3,2
+Gumilang Regency Hotel by Gumilang Hospitality,3,Sukasari,Bandung,1,1,1,1,1,358155,8.3,5,1
+The Suites Metro Apartment By Prisma Utama,3,Buahbatu,Bandung,1,0,0,1,0,144628,8.5,2,3
+DBest Hotel Pasar Baru Bandung,3,Astana Anyar,Bandung,1,0,0,1,1,322314,8.5,3,2
+Sapulidi Resort Hotel,3,Parongpong,Bandung,1,0,1,0,0,359504,8.0,2,3
+Vila Air Natural Resort Lembang,3,Parongpong,Bandung,1,1,1,1,0,1239669,7.6,4,2
+M Premiere Hotel Dago,3,Bandung Wetan,Bandung,1,0,1,0,0,403926,8.8,2,3
+Hotel Caryota,0,Sukajadi,Bandung,1,1,1,0,0,164463,8.0,3,4
+Dbest Express Hotel,2,Astana Anyar,Bandung,1,1,1,0,0,301653,8.8,3,2
+OYO 211 Seruni Guest House,2,Lembang,Bandung,1,0,0,0,0,207991,9.6,1,3
+Villa Lemon,3,Lembang,Bandung,1,0,1,1,0,330578,8.1,3,2
+OYO 226 Lj Hotel Bandung,3,Lengkong,Bandung,1,0,0,0,0,165633,9.2,1,3
+PROMENADE Hotel Bandung By REVIVE,3,Coblong,Bandung,1,0,0,0,0,299174,8.0,1,3
+Hotel Ghotic,0,Buahbatu,Bandung,1,0,1,0,1,190083,7.8,3,4
+Samakta Guest House,1,Lembang,Bandung,1,0,0,0,0,351240,9.2,1,4
+Amaris Hotel Cimanuk,2,Bandung Wetan,Bandung,1,0,1,1,0,288925,8.4,3,2
+Cassadua Hotel,3,Sukajadi,Bandung,1,1,0,0,0,132231,7.4,2,3
+Namin Dago Hotel,3,Coblong,Bandung,1,1,1,0,0,347107,8.3,3,2
+Idea's Hotel,3,Batununggal,Bandung,1,1,1,0,0,247934,8.3,3,2
+Hotel Serena Bandung,2,Cicendo,Bandung,1,1,1,0,0,259090,7.2,3,2
+Hotel 68 Lembang,0,Lembang,Bandung,1,0,0,0,0,144628,8.2,1,4
+Oasis Siliwangi Sport Hotel,3,Sumur Bandung,Bandung,1,0,1,0,1,483471,8.2,3,2
+Hotel Endah Parahyangan,2,Andir,Bandung,1,0,1,1,0,301653,6.8,3,2
+Airy Buah Batu Logam 37A Bandung,2,Bandung Kota,Bandung,1,0,0,0,0,98838,9.8,1,3
+Geger Kalong Hotel Salon Fora,1,Sukasari,Bandung,1,1,1,0,0,185950,8.1,3,4
+Gino Feruci Kebon Jati Bandung,4,Andir,Bandung,1,1,1,0,1,347107,8.0,4,1
+Sapadia Guest House,3,Coblong,Bandung,1,0,1,0,0,209625,8.4,2,3
+The Suites Metro Apartment By Herlan,3,Buahbatu,Bandung,0,1,1,1,1,289256,8.8,4,2
+Geulis Boutique Hotel & Cafe,4,Dago,Bandung,1,1,1,1,0,702479,9.0,4,1
+Anggrek Shopping Hotel,3,Bandung Wetan,Bandung,1,0,1,0,1,413223,8.5,3,2
+Hotel Pesona Ciwidey,1,Pasirjambu,Bandung,0,0,0,1,0,198347,9.3,1,4
+RedDoorz Plus @ Sukamulya Pasteur 2,3,Sukajadi,Bandung,1,0,0,0,0,140495,8.4,1,3
+Albis Hotel,2,Ciwidey,Bandung,1,0,1,1,1,328926,8.2,4,2
+Lotus Hotel Cafe & Meeting Place,2,Coblong,Bandung,1,1,1,0,0,161570,7.3,3,2
+Ruby Hotel Syariah,2,Cicendo,Bandung,1,0,1,0,0,301653,9.1,2,3
+Tibera Hotel Ciumbuleuit Bandung,2,Cidadap,Bandung,1,0,1,0,0,231405,8.7,2,3
+RedDoorz near Pelajar Pejuang 3,2,Lengkong,Bandung,1,0,0,0,0,126446,8.4,1,3
+Karang Setra Hotel & Cottages,3,Sukajadi,Bandung,1,1,1,1,1,1652893,8.4,5,1
+The Suites Metro Apartment By Dinda,3,Buahbatu,Bandung,1,1,1,1,1,148760,7.3,5,1
+Capital O 253 Topas Galeria Hotel,3,Cicendo,Bandung,1,0,0,1,1,314693,9.0,3,2
+RedDoorz Plus near Bandung Indah Plaza,2,Bandung Wetan,Bandung,1,0,1,0,0,219835,9.4,2,3
+Zodiak @Sutami Bandung,2,Sukajadi,Bandung,1,0,1,0,0,268595,7.8,2,3
+Chara Hotel,3,Lengkong,Bandung,1,1,1,0,0,305785,5.9,3,2
+Latief Inn Hotel,2,Sumur Bandung,Bandung,1,0,1,0,0,246281,8.5,2,3
+Hotel California Bandung,3,Bandung Wetan,Bandung,1,1,1,0,1,392562,9.2,4,2
+MS Hotel Ciwidey,0,Rancabali,Bandung,1,0,0,0,0,319545,6.4,1,4
+Zodiak @Paskal Bandung,2,Cicendo,Bandung,1,1,0,0,0,241736,7.5,2,3
+D'Batoe Boutique Hotel,3,Cicendo,Bandung,1,1,1,0,1,355372,7.5,4,2
+Nur Alam Hotel Lembang,2,Lembang,Bandung,1,0,0,1,0,163636,7.8,2,3
+RedDoorz @ Cipaku,2,Cidadap,Bandung,1,0,1,0,0,111570,7.5,2,3
+Karmila Hotel,1,Bandung Wetan,Bandung,1,0,1,0,0,231405,8.3,2,4
+Anggrek Gandasari Hotel,3,Bandung Wetan,Bandung,1,0,1,0,0,289256,8.8,2,3
+Zodiak @Kebonjati,2,Andir,Bandung,1,0,0,0,0,264463,7.8,1,3
+Alqueby Hotel,2,Kiaracondong,Bandung,1,0,1,0,0,257788,7.9,2,3
+OYO 342 De'Kayakini Hotel,2,Bandung Kota,Bandung,1,0,0,0,0,231291,9.7,1,3
+Golden Flower Hotel,4,Sumur Bandung,Bandung,1,1,1,1,1,403926,7.8,5,1
+Hotel Unik Bandung,2,Cicendo,Bandung,1,1,1,0,0,196694,7.5,3,2
+Serela Waringin Bandung,3,Andir,Bandung,1,1,1,1,1,323554,8.0,5,1
+Mitra Hotel Bandung,3,Cibeunying Kaler,Bandung,1,1,1,1,0,342860,8.6,4,2
+Villa Bantal Guling,3,Lembang,Bandung,0,0,0,0,0,148760,7.5,0,3
+High Livin Apartment,3,Cimahi,Bandung,1,1,1,1,1,339174,8.2,5,1
+Bukit Cikahuripan Resort,0,Lembang,Bandung,0,0,0,0,0,599173,8.7,0,4
+Baltika Hotel,2,Lengkong,Bandung,0,0,1,0,0,184380,7.2,1,3
+Tibera Hotel Taman Cibeunying Bandung,2,Bandung Wetan,Bandung,1,0,1,0,1,272727,9.0,3,2
+Kembang Hotel,3,Bandung Wetan,Bandung,1,1,1,0,0,400000,8.7,3,2
+Hilton Bandung,5,Pasir Kaliki,Bandung,1,1,0,1,1,1032000,9.0,4,1
+PIA Hotel Bandung,3,Bandung Kidul,Bandung,1,1,1,0,0,235537,7.8,3,2
+Hotel Wisma Dago,2,Coblong,Bandung,1,0,1,0,0,289256,7.4,2,3
+Hostel Dago 22,0,Coblong,Bandung,1,0,0,0,0,168595,8.1,1,4
+Park View Hotel Bandung,4,Sukajadi,Bandung,1,0,1,1,0,624793,8.5,3,2
+Novotel Bandung,4,Cipaganti,Bandung,1,1,1,1,1,506300,9.3,5,1
+OYO 230 Maleo Residence,2,Sukajadi,Bandung,0,0,0,0,0,125878,8.6,0,3
+Bantal Guling Alun Alun Bandung,0,Regol,Bandung,1,0,0,0,0,104132,7.7,1,4
+Triple Seven Hotel,2,Cicendo,Bandung,1,0,1,0,0,314050,8.7,2,3
+D'Riam Riverside Resort,3,Pasirjambu,Bandung,1,0,1,1,1,454545,8.2,4,2
+Bukit Saung Bambu,0,Cimenyan,Bandung,0,0,1,0,0,609399,8.3,1,4
+Lotus Art Garden Hotel,3,Dago Atas,Bandung,1,0,1,1,0,206612,8.6,3,2
+Elenor's Home,0,Sukajadi,Bandung,1,0,0,0,0,123967,8.4,1,4
+100 Meters Toll Access Kopo Hostel,2,Babakan Ciparay,Bandung,1,0,1,0,0,161157,8.5,2,3
+Stevie G Hotel,3,Parongpong,Bandung,1,0,1,0,1,454545,8.6,3,2
+The Eight Hotel,2,Lengkong,Bandung,1,0,0,1,0,297521,8.2,2,3
+Hotel Setiabudhi Indah,0,Cidadap,Bandung,1,0,0,0,0,246281,10.0,1,4
+Hotel Cemerlang,3,Cicendo,Bandung,1,1,1,0,0,266281,8.1,3,2
+Rumah Kebun Wulan Lembang,0,Lembang,Bandung,1,0,0,0,0,1000000,9.0,1,4
+Pasar Baru Square Hotel Bandung,3,Sumur Bandung,Bandung,1,1,1,0,1,485950,8.8,4,2
+SHAKTI Capsule Cihampelas Bandung,0,Coblong,Bandung,1,0,1,0,0,244628,9.8,2,4
+Patra Comfort Bandung,3,Coblong,Bandung,1,1,1,0,0,557851,8.7,3,2
+Casa De Apple,2,Cibeunying Kaler,Bandung,1,0,1,0,0,289256,9.1,2,3
+Bali Indah Hotel Bandung,2,Regol,Bandung,1,0,0,0,0,126446,6.8,1,3
+Amoory Venice,0,Parongpong,Bandung,0,0,0,0,0,165289,7.3,0,4
+Arsallya Hotel,2,Lengkong,Bandung,1,0,0,0,1,185950,8.8,2,3
+Sandalwood Boutique Hotel,4,Lembang,Bandung,1,1,1,1,0,917686,9.5,4,1
+OYO 352 Hotel Sabang,2,Bandung Sekitarnya,Bandung,0,0,0,0,0,365778,9.4,0,3
+The Suites Metro Apartment By Yana Amanah Property,3,Buahbatu,Bandung,0,1,1,1,1,202479,8.0,4,2
+MANZILA Graha,0,Panyileukan,Bandung,1,0,1,0,0,99174,7.6,2,4
+The Regia Dago,1,Coblong,Bandung,1,0,0,0,0,243802,8.6,1,4
+Puri Setiabudhi Residence Hotel,3,Cidadap,Bandung,1,0,1,1,0,661157,8.6,3,2
+OYO 340 Cleo Guest House,2,Sukajadi,Bandung,1,0,0,0,0,255577,10.0,1,3
+Villa Variz 2,0,Lembang,Bandung,0,0,0,0,0,1074380,10.0,0,4
+Airy Eco Buahbatu Candrawulan Empat 41 Bandung,1,Lengkong,Bandung,1,0,0,0,0,137768,6.4,1,4
+RedDoorz Premium @ Bandung City Center,4,Sumur Bandung,Bandung,1,0,0,1,0,285123,7.4,2,3
+Villa Dago Ethnic Bandung Syariah,3,Cimenyan,Bandung,1,0,0,0,0,1561907,9.2,1,3
+Rumah Teras Pavilion Guest House,2,Cimenyan,Bandung,1,0,0,0,0,206612,8.8,1,3
+Mine Home Hotel Cihampelas,0,Coblong,Bandung,1,1,1,0,0,206612,8.6,3,4
+7 BR Pool Villa Dago Mountain View,3,Dago Atas,Bandung,1,0,0,0,0,5371901,7.2,1,3
+Hotel Harapan Indah,0,Lengkong,Bandung,1,1,0,0,0,115702,5.6,2,4
+Budi House & Food Station,0,Cicendo,Bandung,1,0,1,0,1,97768,7.8,3,4
+OYO 249 Hotel Astria Graha,2,Lengkong,Bandung,1,0,0,0,0,198268,9.4,1,3
+VK Pods,1,Pasir Kaliki,Bandung,1,0,0,0,0,145247,10.0,1,4
+Asoka Hotel Bandung,1,Lengkong,Bandung,1,0,0,0,0,190083,8.2,1,4
+Mercure Nexa Bandung Supratman,4,Bandung Kota,Bandung,1,0,1,1,1,527274,8.4,4,1
+Raffleshom Hotel,2,Lengkong,Bandung,1,0,1,0,0,263802,8.3,2,3
+Metro Suite,3,Buahbatu,Bandung,1,0,1,1,1,148760,8.0,4,2
+Orange Home's Syariah,1,Sukajadi,Bandung,1,0,0,0,0,157024,7.6,1,4
+RedDoorz near Asia Afrika 3,2,Lengkong,Bandung,1,0,1,0,0,156198,8.9,2,3
+Hotel Cihampelas 2,2,Coblong,Bandung,1,1,1,0,0,185950,7.0,3,2
+Concordia Hotel Bandung,3,Cidadap,Bandung,1,0,1,1,0,289256,8.3,3,2
+Saung Balibu Hotel & Resto,0,Lembang,Bandung,1,0,1,0,0,206611,8.6,2,4
+RedDoorz @ Wastu Kencana,2,Bandung Wetan,Bandung,1,0,0,0,0,148760,8.3,1,3
+VillaTel Salse Hotel,3,Lembang,Bandung,1,0,1,0,0,347107,10.0,2,3
+The Cipaku Garden Hotel,3,Cidadap,Bandung,1,1,1,1,1,450826,7.7,5,1
+New Moonlight Hotel,2,Astana Anyar,Bandung,1,0,1,0,0,230579,8.6,2,3
+Cinnamon Hotel Boutique Syariah,3,Cidadap,Bandung,1,0,1,0,1,528925,9.4,3,2
+Pondok Winagung Hotel,2,Ciwidey,Bandung,1,0,0,0,0,289256,9.4,1,3
+Amalio Hotel,0,Cibeunying Kaler,Bandung,1,0,1,0,0,223140,8.0,2,4
+LN9 Bandung Guest House,2,Sukajadi,Bandung,1,0,0,0,0,210744,7.6,1,3
+Gateway Pasteur Apartment By Nfive Hospitality,3,Cicendo,Bandung,0,0,0,1,0,227273,10.0,1,3
+Cigadung Guest House,2,Dago,Bandung,1,0,0,0,0,198347,9.0,1,3
+Pondok Ayuni,0,Sukasari,Bandung,1,0,0,0,0,123967,8.3,1,4
+Villa Yambo,3,Ciwidey,Bandung,0,0,0,0,0,1227273,10.0,0,3
+Daily Home Apartment,3,Cidadap,Bandung,1,0,1,1,0,1239669,9.6,3,2
+Rumah Asri Bed & Breakfast,3,Sukasari,Bandung,1,0,1,0,0,173554,8.7,2,3
+Ariandri Boutique Guesthouse,0,Sukajadi,Bandung,1,0,1,0,0,206612,7.8,2,4
+Mess 888,1,Bandung Kidul,Bandung,0,0,0,0,0,77686,8.3,0,4
+RedDoorz Plus @ Cibogo Bawah,2,Sukajadi,Bandung,1,0,0,0,0,157025,8.3,1,3
+Elenor's Home @ Eyckman,0,Sukajadi,Bandung,1,0,0,0,0,206612,8.6,1,4
+Hotel Santika Bandung,3,Bandung Wetan,Bandung,1,0,0,1,0,559338,8.6,2,3
+Hotel Arimbi Destik,1,Regol,Bandung,1,0,1,0,0,204180,7.1,2,4
+UTC Hotel Bandung,3,Bandung Wetan,Bandung,1,0,0,0,0,312397,8.6,1,3
+OYO 228 Hotel Lodaya,2,Lengkong,Bandung,1,0,0,0,0,141595,8.0,1,3
+D'Sovia Hotel,3,Andir,Bandung,1,0,1,1,0,330579,7.4,3,2
+Bumi Hegar Guest House Syariah,1,Sukasari,Bandung,1,0,0,0,0,90908,8.4,1,4
+Hotel & Banquet Panorama Lembang,3,Lembang,Bandung,1,1,1,1,1,702479,8.4,5,1
+OYO 237 Arwiga Hotel,2,Sukajadi,Bandung,1,0,0,0,0,196300,9.0,1,3
+Airy Veteran 30 Bandung,2,Sumur Bandung,Bandung,1,0,0,0,0,157809,9.8,1,3
+Airy Eco Lembang Raya Tangkuban Perahu 168 Bandung,1,Lembang,Bandung,1,0,1,0,0,180238,9.2,2,4
+Bantal Guling Pasteur,0,Sukasari,Bandung,1,0,0,0,0,139835,9.2,1,4
+Saloka Guesthouse,1,Cimahi,Bandung,1,0,0,0,0,155454,8.2,1,4
+Sandila Guest House,1,Sukasari,Bandung,0,0,0,0,0,107438,7.6,0,4
+Asoka Inn,0,Sukasari,Bandung,1,0,0,0,0,133884,7.9,1,4
+Mine Home Hotel Kebon Kawung,2,Cicendo,Bandung,1,1,1,0,1,403306,8.0,4,2
+RedDoorz Plus @ Ciumbuleuit Area,3,Cidadap,Bandung,1,0,0,0,0,123966,8.8,1,3
+Butternut Tree Townhomes,0,Parongpong,Bandung,1,0,0,0,0,796930,9.2,1,4
+Poin Phila,2,Bandung Wetan,Bandung,1,0,1,0,0,227273,8.6,2,3
+Pagar Putih Guest House Syariah,1,Cibeunying Kaler,Bandung,1,0,0,0,0,111845,9.6,1,4
+OYO 193 SM Residence Pasteur,2,Sukajadi,Bandung,0,0,0,0,0,197479,8.6,0,3
+Lingga Guest House Jayagiri Lembang,0,Lembang,Bandung,1,0,0,0,0,148745,9.3,1,4
+The Victoria Luxurious Guest House,3,Sukasari,Bandung,1,1,1,0,0,272727,8.2,3,2
+Fora Guest House Taman Lingkar,1,Bojongloa Kaler,Bandung,1,1,1,0,0,249669,7.6,3,4
+Scarlet Bukit Pakar Hotel,2,Cimenyan,Bandung,1,0,1,1,0,251033,7.8,3,2
+Puri Tomat,0,Dago,Bandung,1,0,0,0,0,143801,8.0,1,4
+Airy Pasteur Surya Sumantri Kav 4B Sutami Bandung,1,Sukasari,Bandung,1,0,1,0,0,147603,10.0,2,4
+Hotel Dequr Bandung,2,Coblong,Bandung,1,0,1,0,0,204318,7.1,2,3
+Hotel Bumi Asih Gedung Sate,2,Bandung Wetan,Bandung,1,0,1,0,1,283554,8.8,3,2
+Hotel Cherish,1,Parongpong,Bandung,0,0,1,0,0,144628,8.1,1,4
+Unique Guest House,1,Andir,Bandung,1,0,0,0,0,95207,7.7,1,4
+Eve Hotel,2,Bojongloa Kidul,Bandung,1,0,0,0,0,192355,7.8,1,3
+Sentra Inn Hotel,0,Lengkong,Bandung,1,0,0,0,0,216942,8.4,1,4
+Scarlet Dago Hotel,3,Coblong,Bandung,1,0,1,0,0,547934,8.2,2,3
+Villa Damar,3,Sukajadi,Bandung,1,1,1,0,1,330579,8.9,4,2
+Subwow Hostel Bandung,0,Bandung Wetan,Bandung,1,0,0,0,0,105817,9.2,1,4
+Hotel Istana Bandung,2,Sumur Bandung,Bandung,0,0,0,1,0,185950,5.1,1,3
+Sweet Karina Hotel,3,Sukajadi,Bandung,1,1,1,0,1,227273,7.8,4,2
+Hotel Villa Venetys,2,Lembang,Bandung,1,1,1,1,1,380165,8.6,5,2
+La Nostalgie Boutique Hotel,2,Lengkong,Bandung,1,0,1,0,0,227273,7.5,2,3
+Apartemen Gateway by Anggita Raya,0,Cibeunying Kidul,Bandung,1,0,1,1,0,247934,8.8,3,4
+Veleza Hotel,2,Lengkong,Bandung,1,0,0,0,0,285950,8.6,1,3
+OYO 196 Horizone Residence,2,Sukajadi,Bandung,1,0,0,0,0,258330,7.2,1,3
+MANZILA Guest House,0,Buahbatu,Bandung,1,0,0,0,0,115702,7.8,1,4
+Pension Guest House,1,Bandung Wetan,Bandung,1,0,0,0,0,247934,9.6,1,4
+Wood Hotel Bandung,2,Cidadap,Bandung,1,0,1,1,0,341529,7.1,3,2
+Abadi Asri Hotel,2,Cidadap,Bandung,1,0,1,0,0,206612,8.8,2,3
+Imah Seuri Syariah,1,Parongpong,Bandung,0,0,0,0,0,197521,8.8,0,4
+Hotel Montameri,0,Lengkong,Bandung,1,0,1,0,0,185950,8.4,2,4
+Aristo Residence,2,Sukajadi,Bandung,1,0,0,0,0,223140,8.6,1,3
+Naraya House,3,Lengkong,Bandung,1,0,1,0,0,231405,9.0,2,3
+The REGIA,2,Coblong,Bandung,1,0,0,0,0,243802,8.2,1,3
+dPalma Hotel,2,Lengkong,Bandung,1,0,1,0,0,256612,7.7,2,3
+Villa ChavaMinerva Istana Bunga - Lembang Bandung,3,Parongpong,Bandung,1,1,0,1,0,765707,8.3,3,2
+Sutanto Guest House,0,Cinambo,Bandung,1,0,0,0,0,115702,8.1,1,4
+Newton Apartment by OCB,0,Buahbatu,Bandung,0,0,0,0,0,247934,8.0,0,4
+Villa Alila Istana Bunga - Lembang Bandung,3,Parongpong,Bandung,0,1,0,1,0,2314050,7.2,2,3
+Hotel S3 Setrasari,2,Sukajadi,Bandung,1,0,0,0,0,219008,7.5,1,3
+The Suites Metro Apartment By Indah,3,Soekarno Hatta Bypass,Bandung,0,0,1,1,0,227273,8.8,2,3
+Travelers Inn,2,Bandung Wetan,Bandung,1,0,0,0,0,206612,8.6,1,3
+Hotel Catellya,1,Cicendo,Bandung,1,0,1,0,0,144752,7.9,2,4
+Kartika Hotel,1,Sumur Bandung,Bandung,1,0,1,0,0,231405,9.3,2,4
+Apartment Gateway A Yani By Prisma Utama,2,Cibeunying Kidul,Bandung,0,0,1,1,0,165289,7.8,2,3
+U Village Hotel Bandung,3,Cidadap,Bandung,1,0,1,1,0,247934,8.1,3,2
+Bumi Bandhawa Hotel,3,Cibeunying Kaler,Bandung,1,0,1,1,0,495868,10.0,3,2
+Simplycity Hostel Syariah Bandung,0,Andir,Bandung,1,1,0,0,0,148760,9.6,2,4
+Hotel Progo,3,Bandung Wetan,Bandung,1,0,1,0,0,242975,7.9,2,3
+Magnolia Bed & Breakfast,2,Sukasari,Bandung,1,0,0,0,0,144627,8.0,1,3
+Fiori Hotel,3,Sukajadi,Bandung,1,0,1,0,1,298347,8.6,3,2
+Hotel Harmony Inn Bandung,1,Lengkong,Bandung,1,0,1,0,0,185950,8.2,2,4
+SM Residence & Guest House Pasteur,1,Sukajadi,Bandung,1,0,0,0,0,164370,8.2,1,4
+RedDoorz near Dago Pakar,2,Cibeunying Kaler,Bandung,1,0,0,0,0,177685,8.8,1,3
+Bantal Guling Pasar Baru,0,Andir,Bandung,1,0,0,0,0,109338,7.9,1,4
+The Silk Art & Design Hotel,3,Coblong,Bandung,1,1,1,1,1,454545,8.8,5,1
+Four Points By Sheraton Bandung,4,Dago,Bandung,1,0,0,1,1,1030000,9.2,3,2
+Wisma Asia Busindo,0,Lengkong,Bandung,1,0,0,0,0,157934,7.9,1,4
+Lembang Asri Resort,3,Lembang,Bandung,1,1,1,1,1,309917,8.0,5,1
+Hotel Aster Harmony,0,Lengkong,Bandung,1,0,0,0,0,177686,7.7,1,4
+Pelangi Hotel Lembang,0,Lembang,Bandung,1,0,1,0,0,165289,6.7,2,4
+Bantal Guling Guesthouse Gatsu,1,Batununggal,Bandung,1,0,0,0,0,140578,7.5,1,4
+Wisma 11 Dago,2,Coblong,Bandung,1,0,0,0,0,165289,8.8,1,3
+The Summit Siliwangi Hotel,3,Bandung Wetan,Bandung,1,1,1,0,0,239669,8.6,3,2
+CT 195,1,Sukajadi,Bandung,1,0,0,0,0,132231,8.8,1,4
+Airy Eco Raya Lembang 198 Bandung,1,Lembang,Bandung,1,0,0,0,0,170082,6.0,1,4
+Hotel Cihampelas 3,2,Coblong,Bandung,1,1,1,1,0,173553,7.2,4,2
+RedDoorz near Gedung Sate 2,2,Coblong,Bandung,1,0,1,0,1,133884,8.4,3,2
+Virtual Rooms Tamansari Panoramic Apartment Bandung,1,Arcamanik,Bandung,0,0,1,0,1,123967,6.6,2,4
+Ottenville Boutique Hotel,3,Cicendo,Bandung,1,0,1,0,0,260331,8.2,2,3
+Summerbird Bed and Brasserie,2,Cicendo,Bandung,1,0,1,0,0,424599,8.8,2,3
+Radio Backpacker Guesthouse,1,Cicendo,Bandung,1,0,0,0,0,103306,9.2,1,4
+Hotel Boulevard,0,Lengkong,Bandung,1,0,1,0,0,206612,8.4,2,4
+Ilos Hotel,2,Sukajadi,Bandung,1,1,1,0,0,289256,8.2,3,2
+Apartment Jarrdin Cihampelas By Kenzo,3,Cihampelas,Bandung,1,0,0,0,0,247934,6.4,1,3
+The Suites Metro Apartment By Ghotic,3,Buahbatu,Bandung,0,0,0,1,0,252066,8.0,1,3
+Wisma Puri Larasati,1,Coblong,Bandung,1,0,1,0,0,264463,8.1,2,4
+RedDoorz near Kampung Gajah,3,Sukasari,Bandung,1,0,0,0,1,144628,7.9,2,3
+Bilique Hotel,3,Sukasari,Bandung,1,1,0,1,1,1652893,7.4,4,2
+Hotel Buah Sinuan,2,Lembang,Bandung,0,0,0,0,0,322314,7.6,0,3
+Hotel Augusta Valley,0,Cidadap,Bandung,1,0,1,1,0,177686,8.1,3,4
+Nyaman Murah Topaz B Apartemen Gateway Pasteur Bandung,2,Cicendo,Bandung,0,0,0,1,0,224036,9.4,1,3
+The Suites Metro Apartment By EMJI GROUP,3,Buahbatu,Bandung,0,0,0,1,0,227273,5.7,1,3
+Narapati Syariah Hotel & Convention,2,Lengkong,Bandung,1,1,1,0,0,289256,7.6,3,2
+Hotel Nyland Cipaganti,2,Bandung Wetan,Bandung,1,0,1,0,1,280991,7.9,3,2
+Airy Eco Stasiun Cimindi Budhi 29 Cimahi,1,Cicendo,Bandung,1,0,0,0,0,127024,6.0,1,4
+Retanata Homestay,2,Cidadap,Bandung,1,0,0,0,0,247933,9.0,1,3
+The Suites Metro Apartment By Nina King Property,3,Buahbatu,Bandung,0,0,0,0,0,165289,10.0,0,3
+The Feli Hotel,1,Lengkong,Bandung,1,0,0,0,0,206612,8.3,1,4
+The Suites Metro Apartment By Epul Abadi Property,3,Soekarno Hatta Bypass,Bandung,0,0,1,1,0,247934,4.4,2,3
+Araya Huis Homestay,0,Andir,Bandung,1,0,0,0,0,123967,6.7,1,4
+Homer's Club,0,Parongpong,Bandung,1,0,0,0,1,165289,5.2,2,4
+Patradisa Hotel,1,Sumur Bandung,Bandung,1,0,0,0,0,181818,9.4,1,4
+D&D Backpacker Guesthouse,1,Cidadap,Bandung,1,0,0,0,0,136364,9.2,1,4
+Hotel Augusta Surapati,0,Cibeunying Kaler,Bandung,1,0,1,0,0,272727,7.8,2,4
+Kampioen Bed & Breakfast,1,Cicendo,Bandung,1,0,0,0,0,249173,7.2,1,4
+4 Bedroom Pool at Hazelhouse (HZL),0,Cidadap,Bandung,1,0,0,0,0,1139926,7.2,1,4
+Flores Gallery Hotel,2,Bandung Wetan,Bandung,1,0,1,0,0,219008,7.6,2,3
+P Hostel,1,Astana Anyar,Bandung,1,0,0,0,0,238017,8.8,1,4
+Asmila Boutique Hotel Bandung,3,Cidadap,Bandung,1,0,1,1,0,498348,8.5,3,2
+RedDoorz Near Telkom Corporate University,2,Sukasari,Bandung,1,0,0,0,0,122975,7.7,1,3
+Corsica Hotel,1,Bandung Wetan,Bandung,1,0,1,0,0,231405,9.0,2,4
+Wisma Gandapura,1,Sumur Bandung,Bandung,1,0,0,0,0,165289,9.1,1,4
+Hotel Victory,2,Cicendo,Bandung,1,0,1,0,0,272727,7.1,2,3
+Gateway Pasteur Apartement By Kevin,3,Cicendo,Bandung,0,0,0,1,0,261983,10.0,1,3
+Kastuba Resort,3,Lembang,Bandung,1,0,1,0,0,765000,9.2,2,3
+Ten Eleven Living Point,3,Cidadap,Bandung,0,0,0,0,0,334711,9.1,0,3
+Airy Braga Lembong 21 Bandung,3,Sumur Bandung,Bandung,1,0,1,0,0,315462,8.8,2,3
+Villa Naisha,1,Lembang,Bandung,1,0,1,0,0,545455,8.3,2,4
+Airy Arcamanik Soekarno Hatta 783A Bandung,1,Arcamanik,Bandung,1,0,1,1,0,121570,7.8,3,4
+Altahfidz Executive Homestay Syariah,0,Antapani,Bandung,1,0,1,0,0,78512,9.4,2,4
+Maple House by Vila Istana Bunga,2,Parongpong,Bandung,0,0,0,1,0,371901,7.3,1,3
+Tulip Guest House Bandung,2,Cicendo,Bandung,1,0,1,0,0,247934,9.6,2,3
+Hotel Bukit Juanda,1,Coblong,Bandung,1,0,0,0,0,198347,9.2,1,4
+RedDoorz Premium @ Moh Toha,4,Bandung Kota,Bandung,1,0,0,0,0,185950,9.4,1,3
+Airy Cihaurgeulis Surapati 235 Bandung,3,Cibeunying Kaler,Bandung,1,0,0,0,0,202479,4.0,1,3
+Pondokan Tjiburial,0,Cimenyan,Bandung,1,0,1,1,0,309917,9.6,3,4
+Kenangan Hotel,2,Sumur Bandung,Bandung,1,0,1,0,0,239669,8.0,2,3
+RedDoorz @ Sersan Bajuri,3,Sukasari,Bandung,1,0,0,0,0,165289,9.3,1,3
+De Beverly Dago Apartment,3,Coblong,Bandung,1,0,0,0,0,409091,6.3,1,3
+Pondok Buah Sinuan,0,Lembang,Bandung,0,1,1,0,0,255165,7.8,2,4
+Mandala Residence,1,Kiaracondong,Bandung,1,0,0,0,0,152893,8.1,1,4
+Arka Family Villa,2,Lembang,Bandung,0,0,0,0,0,227273,9.3,0,3
+Rancho Topaz Guesthouse,2,Cimahi,Bandung,1,1,0,0,0,243073,4.3,2,3
+Amellia Pasteur Hotel,2,Sukajadi,Bandung,1,1,1,0,0,199174,8.0,3,2
+Airy Eco Kebon Jati H Basar 61 Bandung,1,Andir,Bandung,1,0,1,0,0,187252,9.6,2,4
+Comfort Room at Kostel Syariah Cimahi (AGS1),0,Cimahi,Bandung,0,0,0,0,0,128099,4.8,0,4
+The Suites Metro Apartment By Aboy Property,3,Soekarno Hatta Bypass,Bandung,0,0,1,1,0,152893,3.6,2,3
+Airy Alun Alun Dewi Sartika 18 Bandung,1,Regol,Bandung,0,0,0,0,0,212925,2.0,0,4
+Rumah Tawa Hotel,1,Sumur Bandung,Bandung,1,0,0,0,0,252066,8.4,1,4
+Suryalaya Inn Guest House,0,Lengkong,Bandung,1,0,0,0,0,214876,10.0,1,4
+Retropoint BnB,2,Andir,Bandung,1,0,0,0,0,181818,7.9,1,3
+De Orange Pasteur Guest House,0,Pasteur,Bandung,1,0,0,0,0,162727,6.2,1,4
+Tama Boutique Hotel,3,Cicendo,Bandung,1,0,1,0,1,456818,9.5,3,2
+4 BR 2 Villa Dago City View Pool 2,4,Cimenyan,Bandung,1,0,0,1,0,11188017,8.8,2,3
+RedDoorz near Braga Street,2,Sumur Bandung,Bandung,1,0,0,0,0,163636,7.8,1,3
+4 BR 1 Villa Dago City View Pool 1,4,Cimenyan,Bandung,1,0,0,1,0,3336777,9.2,2,3
+Omah Angkul Angkul Villa,3,Lembang,Bandung,1,0,0,1,0,1528926,7.6,2,3
+Kulem Cisitu,1,Coblong,Bandung,1,0,1,1,0,347107,10.0,3,4
+Cherry Homes Hotel & Residence,2,Sukajadi,Bandung,1,0,1,0,0,287603,8.4,2,3
+Villa Kampung Karuhun Sutan Raja,1,Pasirjambu,Bandung,1,0,1,0,0,1239669,8.1,2,4
+Sheraton Bandung Hotel and Tower,5,Bandung Sekitarnya,Bandung,1,1,1,1,1,950000,9.1,5,1
+Rumah Kayu Cottage Syariah,0,Parongpong,Bandung,1,0,1,1,0,239119,3.6,3,4
+Zenrra Backpacker,0,Sukajadi,Bandung,1,0,0,0,0,198347,9.8,1,4
+Tabayang Guest House,0,Bandung Kota,Bandung,1,0,0,0,0,140496,9.2,1,4
+Rumah Tawa Guesthouse - 2,2,Lengkong,Bandung,1,0,0,0,0,157025,6.0,1,3
+Alam Permai Hotel,2,Cidadap,Bandung,1,0,1,0,0,248929,6.0,2,3
+Kuwera Inn Hotel,0,Sukajadi,Bandung,1,0,1,0,0,371901,9.4,2,4
+Sutan Raja Guest House,0,Lengkong,Bandung,1,0,1,0,0,278801,8.2,2,4
+Osmond Villa & Resort,4,Lembang,Bandung,1,0,0,1,0,495868,9.2,2,3
+Uncle D Bed & Breakfast,0,Cibeunying Kaler,Bandung,1,0,0,0,0,165289,9.2,1,4
+Homestay Setiabudi Syariah,0,Sukasari,Bandung,1,0,0,0,0,181818,9.6,1,4
+Zatarana Guest House Syariah,2,Coblong,Bandung,1,0,0,0,0,400323,3.2,1,3
+Buton Backpacker Lodge,1,Sumur Bandung,Bandung,1,0,0,0,0,190082,10.0,1,4
+Bandung Central Guest House,1,Andir,Bandung,1,0,0,0,0,192355,8.8,1,4
+Vila Bunga Merah Gelatik,0,Lembang,Bandung,1,0,0,0,0,1487603,9.5,1,4
+Green Homestay Syariah Bandung,0,Soekarno Hatta Bypass,Bandung,1,0,0,0,0,206612,9.2,1,4
+Villa Saung Ineh,0,Bojongsoang,Bandung,0,0,0,0,0,454545,8.2,0,4
+De Nuansa Dago I Villa,0,Coblong,Bandung,0,0,0,0,0,726364,5.2,0,4
+Villa Runia,1,Lembang,Bandung,0,0,0,0,0,495868,10.0,0,4
+Narima Resort,1,Lembang,Bandung,1,0,0,1,0,341204,7.2,2,4
+Villa Gardenia Bandung,1,Parongpong,Bandung,1,0,0,1,0,645661,9.6,2,4
+Maulana Hills Syariah,2,Lembang,Bandung,1,0,0,0,0,392562,9.8,1,3
+5 BR Pool Hill Side Villa Dago,2,Cimenyan,Bandung,1,0,0,1,0,4121901,10.0,2,3
+De Riau Cottage,2,Bandung Wetan,Bandung,0,0,0,0,0,1379339,8.8,0,3
+De Maya Cottage,2,Cimenyan,Bandung,0,0,0,0,0,1090000,4.4,0,3
+Villa Bayu Lembang,3,Lembang,Bandung,1,0,0,0,0,1735537,10.0,1,3
+Astoria Villa,3,Parongpong,Bandung,1,0,0,0,0,1074380,6.4,1,3
+Penthouse & Villa Trixy,3,Cibeunying Kaler,Bandung,1,1,1,1,1,991736,6.2,5,1
+Villa Istana Bunga 3 Bedrooms - Lembang Bandung,3,Parongpong,Bandung,0,0,0,1,1,2272727,7.8,2,3
+Villa Adelia Istana Bunga - Lembang Bandung,3,Parongpong,Bandung,0,1,0,1,0,2148760,6.0,2,3
+Villa Istana Bunga 2 Bedrooms - Lembang Bandung,3,Parongpong,Bandung,0,1,0,1,1,1487603,8.4,3,2
+Bamboo Village by Villa Istana Bunga,3,Parongpong,Bandung,1,1,1,1,0,610853,5.5,4,2
+4 BR Pool Villa Dago City View,4,Dago Atas,Bandung,1,0,0,1,0,3512397,2.0,2,3
+5 BR Pool Hill View Villa Dago,4,Cimenyan,Bandung,0,0,0,1,0,4121901,6.7,1,3
+RedDoorz near Farm House 2,2,Lembang,Bandung,0,0,0,0,0,157024,6.4,0,3
+RedDoorz Plus near Isola Upi,3,Sukasari,Bandung,1,0,0,0,1,126446,8.2,2,3
+RedDoorz @ Paskal Hyper Square,2,Andir,Bandung,1,0,0,0,0,152479,7.5,1,3
+RedDoorz near Parahyangan University,2,Cidadap,Bandung,1,0,0,0,0,133884,8.3,1,3
+RedDoorz Plus near Rumah Mode,2,Coblong,Bandung,1,0,1,0,0,137603,8.2,2,3
+RedDoorz @ Surapati,2,Cibeunying Kaler,Bandung,0,0,0,0,0,133884,7.9,0,3
+RedDoorz Plus @ Cassa Pasteur,2,Sukajadi,Bandung,1,0,0,0,1,117769,8.0,2,3
+RedDoorz Plus near Taman Lalu Lintas Bandung,3,Sumur Bandung,Bandung,1,0,0,0,0,157024,8.6,1,3
+RedDoorz @ Dago Asri 3,2,Dago,Bandung,1,0,0,0,0,103306,9.0,1,3
+OBC Guest House,3,Cidadap,Bandung,1,0,0,0,0,165289,8.4,1,3
+RedDoorz near Trans Studio Mall 3,2,Lengkong,Bandung,1,1,0,0,0,136363,7.4,2,3
+Hotel Ersada,2,Sumur Bandung,Bandung,1,0,0,0,0,198347,7.2,1,3
+RedDoorz near Trans Studio Mall 2,3,Lengkong,Bandung,1,0,0,0,0,146033,9.3,1,3
+RedDoorz @ Hegarmanah,2,Cidadap,Bandung,1,0,0,0,0,138347,9.0,1,3
+RedDoorz near Sukajadi 2,2,Sukajadi,Bandung,1,0,0,0,0,165289,8.2,1,3
+The Summit Residence,2,Sukajadi,Bandung,1,0,0,0,0,173553,8.2,1,3
+RedDoorz near Exit Tol Pasteur,3,Sukajadi,Bandung,1,0,0,0,0,119008,7.2,1,3
+RedDoorz @ Supratman Street,2,Bandung Wetan,Bandung,1,0,0,0,0,134545,6.6,1,3
+Rossan Villa,1,Sukasari,Bandung,0,0,0,0,0,152892,8.4,0,4
+Hotel Mawar,3,Lengkong,Bandung,1,0,1,0,0,190082,6.2,2,3
+Sakura Guest House,0,Bandung Wetan,Bandung,1,0,0,0,0,181818,8.7,1,4
+Frances Hotel,2,Coblong,Bandung,1,0,1,0,0,164876,7.4,2,3
+RedDoorz @ Buah Batu,2,Lengkong,Bandung,1,0,1,0,0,157025,8.5,2,3
+RedDoorz near Politeknik Negeri Bandung,3,Sukasari,Bandung,1,0,0,0,0,123966,8.6,1,3
+RedDoorz Plus near Pasundan University,3,Lengkong,Bandung,1,0,0,0,0,148760,9.0,1,3
+Vue Palace Hotel,4,Sumur Bandung,Bandung,1,0,0,0,0,355371,6.6,1,3
+Juvante Hotel,1,Sukasari,Bandung,0,0,1,0,0,309917,7.5,1,4
+RedDoorz @ Cihampelas,2,Coblong,Bandung,1,0,0,0,0,177686,6.8,1,3
+RedDoorz near Cihampelas Walk,2,Coblong,Bandung,1,1,0,0,0,177686,6.6,2,3
+RedDoorz @ Talaga Bodas,3,Lengkong,Bandung,1,0,1,0,0,190082,9.0,2,3
+Hotel D'Anaya,3,Bogor Timur,Bogor,1,0,1,1,0,909090,9.0,3,2
+Amaris Hotel Pakuan Bogor,2,Bogor Timur,Bogor,1,0,1,0,0,381074,8.4,2,3
+Pesona Alam Resort & Spa,4,Cisarua,Bogor,1,1,1,1,1,1776859,9.1,5,1
+THE 1O1 Bogor Suryakancana,4,Bogor Tengah,Bogor,1,1,1,1,1,1274824,8.6,5,1
+Royal Safari Garden Resort and Convention,4,Cisarua,Bogor,1,1,1,1,0,847000,8.6,4,1
+The Green Peak Hotel & Convention,4,Cisarua,Bogor,1,0,1,1,1,495868,9.0,4,1
+Hotel Ariandri Puncak,3,Cisarua,Bogor,1,0,1,1,0,312397,8.4,3,2
+Taman Safari Lodge,3,Cisarua,Bogor,1,0,1,1,0,454545,8.1,3,2
+Grand Diara Hotel,3,Cisarua,Bogor,1,0,1,0,0,420661,9.0,2,3
+IZI Hotel,2,Bogor Timur,Bogor,1,0,1,1,0,288388,7.5,3,2
+Royal Tulip Gunung Geulis Resort and Golf,5,Sukaraja,Bogor,1,1,1,1,1,1487603,8.5,5,1
+Lorin Hotel Sentul,3,Babakan Madang,Bogor,1,1,1,1,0,537190,7.7,4,2
+Arch Hotel Bogor,3,Bogor Utara,Bogor,1,1,1,1,0,516529,8.3,4,2
+Airy Eco RE Martadinata 21 Bogor,1,Tanah Sareal,Bogor,1,0,1,0,0,110743,8.6,2,4
+R Hotel Rancamaya,4,Bogor Selatan,Bogor,1,1,1,1,1,1283454,8.8,5,1
+Aston Bogor Hotel,4,Bogor Selatan,Bogor,1,1,1,1,1,1028000,8.6,5,1
+Bogor Icon Hotel,4,Tanah Sareal,Bogor,1,1,1,1,1,396694,7.4,5,1
+HARRIS Hotel Sentul City,4,Babakan Madang,Bogor,1,1,1,1,1,561983,8.9,5,1
+Braja Mustika Hotel Bogor,3,Bogor Barat,Bogor,1,0,1,1,1,371901,8.4,4,2
+Asana Grand Pangrango,3,Bogor Tengah,Bogor,1,0,1,1,1,355788,8.5,4,2
+Hotel Royal Bogor,4,Bogor Tengah,Bogor,1,0,1,0,0,5061983,8.0,2,3
+The Alana Hotel and Conference Sentul City,4,Babakan Madang,Bogor,1,1,0,0,1,1017256,9.3,3,2
+Aston Sentul Lake Resort & Conference Center,4,Babakan Madang,Bogor,1,1,1,1,1,1498000,8.5,5,1
+The Mirah Bogor,4,Bogor Tengah,Bogor,1,0,1,1,0,517355,8.4,3,2
+Amaris Hotel Padjajaran,2,Bogor Tengah,Bogor,1,0,1,0,0,368928,8.1,2,3
+Grand Prioritas Hotel,3,Cisarua,Bogor,1,0,1,0,1,227273,7.1,3,2
+Hotel Parama,3,Cisarua,Bogor,0,1,1,0,1,312397,7.4,3,2
+Desa Gumati Resort,3,Sukaraja,Bogor,1,0,1,1,0,218182,6.5,3,2
+Amanuba Hotel & Resort Rancamaya,4,Bogor Selatan,Bogor,1,1,1,1,1,330579,8.8,5,1
+RedDoorz Plus near Taman Safari Indonesia,3,Cisarua,Bogor,1,0,0,1,0,165289,7.5,2,3
+Bogor Valley Hotel,3,Tanah Sareal,Bogor,1,1,1,0,1,399000,8.4,4,2
+Puncak Pass Resort,4,Cisarua,Bogor,1,1,1,0,1,737603,8.5,4,1
+Sahira Butik Hotel Pakuan Syariah,3,Bogor,Bogor,1,0,0,1,0,487602,8.2,2,3
+Hotel Semeru,2,Bogor Barat,Bogor,1,0,1,0,0,214876,8.5,2,3
+RedDoorz Plus @ Megamendung Puncak Bogor,2,Megamendung,Bogor,0,0,0,1,0,148760,8.2,1,3
+The Jayakarta Cisarua Inns & Villas,3,Cisarua,Bogor,1,1,1,1,0,358264,7.1,4,2
+Hotel Cisarua Indah,2,Cisarua,Bogor,1,0,1,0,0,175620,7.1,2,3
+Taman Teratai Hotel,2,Cisarua,Bogor,1,0,1,1,0,249587,8.4,3,2
+Hotel Neo+ Green Savana Sentul,3,Babakan Madang,Bogor,1,0,1,1,1,838000,8.6,4,2
+Jimmers Mountain Resort,3,Cisarua,Bogor,1,0,1,1,1,590909,7.8,4,2
+Space Hotel,0,Bogor Timur,Bogor,1,1,1,0,0,247933,7.5,3,4
+Bukit Gumati Hotel,3,Bogor Selatan,Bogor,1,0,1,1,0,285906,7.0,3,2
+Grand Mulya Bogor,4,Sukaraja,Bogor,1,1,1,1,1,337190,7.6,5,1
+Bumi Cikeas Resort,3,Sukaraja,Bogor,1,1,1,1,0,214876,6.8,4,2
+The Highland Park Resort Hotel Bogor,4,Taman Sari,Bogor,1,0,1,1,0,1006612,10.0,3,2
+Airy Eco Cibinong Gor Barat Pemda 66 Bogor,2,Cibinong,Bogor,1,0,0,0,0,164719,10.0,1,3
+Ole Suites Hotel,2,Babakan Madang,Bogor,1,1,1,1,1,454545,8.0,5,2
+The Hayati Inn,2,Bogor Timur,Bogor,1,0,1,0,0,345455,8.0,2,3
+Bumi Tapos Resort,3,Ciawi,Bogor,1,0,1,1,1,274380,7.7,4,2
+RedDoorz near Exit Tol Bogor,2,Bogor Timur,Bogor,1,0,0,0,0,181818,8.3,1,3
+Papaho Hotel,0,Bogor Utara,Bogor,1,1,1,0,0,330579,7.6,3,4
+Cisarua Indah Cottage,2,Cisarua,Bogor,1,0,1,1,0,542975,8.8,3,2
+Bumi Gumati Convention Resort Hotel,3,Sukaraja,Bogor,1,0,0,1,0,247934,8.1,2,3
+Villa Sawah Resort Managed by Salak Hospitality,3,Ciawi,Bogor,1,0,1,1,0,289256,7.1,3,2
+Gunung Geulis Cottages Managed by Royal Tulip,3,Sukaraja,Bogor,1,0,1,0,0,330579,8.2,2,3
+Airy Eco Villa Bogor Indah BB Satu 5,1,Bogor Utara,Bogor,1,0,0,0,0,160950,6.8,1,4
+OYO 186 Bintang Jadayat 1,2,Megamendung,Bogor,1,0,0,0,0,378425,10.0,1,3
+New Sabrina Hotel,1,Cisarua,Bogor,1,0,0,1,0,235537,7.5,2,4
+Cozzy Kostel Bogor Managed by Salak Hospitality,2,Bogor Tengah,Bogor,1,0,1,1,0,247934,9.2,3,2
+RedDoorz near Kebun Raya Bogor 2,2,Bogor Tengah,Bogor,1,0,0,0,0,173553,9.4,1,3
+Literooms Minijack Megamendung Puncak,1,Megamendung,Bogor,1,1,1,0,1,206611,9.1,4,2
+Sudirman Boutique Room,0,Bogor Tengah,Bogor,1,0,1,0,0,156942,6.8,2,4
+Malabar Park,0,Bogor Tengah,Bogor,1,0,0,0,0,289256,8.6,1,4
+Hotel Lembah Safari Cisarua,0,Cisarua,Bogor,1,1,1,1,0,289256,8.7,4,4
+JSI Resort,4,Megamendung,Bogor,1,0,1,1,0,670000,7.9,3,2
+Airy Pakuan Bogor,3,Bogor Timur,Bogor,0,0,0,0,0,354545,7.6,0,3
+D Agape Meeting & Conference,1,Megamendung,Bogor,1,1,1,1,0,330579,8.7,4,2
+Jambuluwuk Puncak Resort,5,Ciawi,Bogor,1,0,1,1,0,871652,9.5,3,1
+Sahira Butik Hotel (Syariah),3,Bogor Tengah,Bogor,1,0,1,1,0,537190,8.8,3,2
+Ole Suites Cottage,2,Babakan Madang,Bogor,1,1,0,1,0,471074,8.1,3,2
+RedDoorz @ Cibogo Puncak Bogor,2,Megamendung,Bogor,1,0,0,0,0,132231,8.6,1,3
+RedDoorz near Botani Square Mall,3,Bogor Timur,Bogor,1,0,0,0,0,206611,9.4,1,3
+Grand Cempaka Resort,3,Megamendung,Bogor,1,1,1,1,0,1041322,9.1,4,2
+Wonderful Citamiang,1,Cisarua,Bogor,1,1,0,1,0,144628,9.8,3,4
+Novotel Bogor Golf Resort & Convention Center,4,Bogor,Bogor,1,0,1,1,1,837190,8.8,4,1
+Airy Eco Syariah Cisarua Lembah Nyiur 68 Bogor,1,Cisarua,Bogor,1,0,0,0,0,151735,9.9,1,4
+Hotel Arwana Safari,1,Cisarua,Bogor,1,0,1,0,0,268595,7.8,2,4
+The Sahira Hotel (Syariah),4,Tanah Sareal,Bogor,1,0,1,1,1,595041,8.7,4,1
+Villa Puncak by Plataran,3,Cisarua,Bogor,1,0,0,1,0,2640000,8.9,2,3
+Papyrus Tropical Hotel,3,Tanah Sareal,Bogor,1,0,1,1,0,454545,8.6,3,2
+Bogor Homestay,0,Sukaraja,Bogor,1,0,0,0,0,190083,8.4,1,4
+Salak View Resort,0,Cisarua,Bogor,1,0,0,0,0,413223,7.6,1,4
+Airy Eco Syariah Dramaga Kampus Dalam 5 Bogor,1,Bogor Barat,Bogor,1,0,0,0,0,113450,6.7,1,4
+Wisma Mirah 1,0,Bogor Tengah,Bogor,0,0,0,0,0,274669,7.7,0,4
+OYO 232 Hotel Lurus,2,Cisarua,Bogor,1,0,0,1,0,337909,10.0,2,3
+Alun Alun Gumati Resort,2,Sukaraja,Bogor,1,0,1,0,0,198347,6.8,2,3
+Alfa Resort Hotel & Conference,3,Cisarua,Bogor,1,0,1,1,1,633058,8.8,4,2
+OYO 187 Bintang Jadayat 3,2,Cisarua,Bogor,1,0,0,0,1,257947,9.8,2,3
+Bakom Inn,2,Ciawi,Bogor,1,0,0,0,0,235537,10.0,1,3
+Citrus-house.com,3,Bogor,Bogor,1,0,0,0,0,412190,8.5,1,3
+Airy Cisarua Raya Puncak KM 85 Bogor,1,Cisarua,Bogor,1,0,0,1,0,257677,6.0,2,4
+Bogor Cabin Inn,0,Bogor Selatan,Bogor,1,0,0,0,0,148760,10.0,1,4
+Villa Aries Biru,0,Cisarua,Bogor,1,0,1,1,0,826446,9.4,3,4
+Airy Eco Sudirman 34 Bogor,1,Bogor Tengah,Bogor,1,0,1,0,0,173388,4.8,2,4
+Cansebu Amazing Camp & Resort,0,Megamendung,Bogor,1,0,0,1,0,211921,6.8,2,4
+Hotel Tjokro,2,Cisarua,Bogor,1,0,1,1,1,289256,8.1,4,2
+Mirda Gratia Hotel & Convention,3,Cisarua,Bogor,1,0,0,1,0,291736,8.0,2,3
+Sofyan Inn Srigunting - Hotel Halal,2,Bogor Tengah,Bogor,1,0,1,0,0,351240,8.2,2,3
+Hotel Dirga,0,Cisarua,Bogor,1,0,0,1,0,152893,8.2,2,4
+Airy Baranangsiang Riau 39 Bogor,1,Bogor Timur,Bogor,0,0,0,0,0,316198,9.6,0,4
+The Pelangi Hotel & Resort Bogor,2,Sukaraja,Bogor,1,0,1,1,1,495868,3.4,4,2
+Arimbi Cibulan Suites,2,Cisarua,Bogor,1,0,0,1,0,210744,9.8,2,3
+Algira 6 Dramaga (Guest House),2,Dramaga,Bogor,1,0,0,0,1,206612,8.5,2,3
+RedDoorz @ Cisarua Puncak Bogor,1,Puncak,Bogor,0,0,0,0,0,206612,9.8,0,4
+OYO 292 D'oasis Mountain Resort,2,Cisarua,Bogor,0,0,0,0,0,961140,10.0,0,3
+RedDoorz Plus near Jalan Baru Bogor,2,Tanah Sareal,Bogor,1,0,0,0,0,144628,8.6,1,3
+Villa Tjokro,2,Cisarua,Bogor,1,0,1,1,1,557851,8.3,4,2
+OYO 209 Permata Hati Resort & Organic Farm,2,Cisarua,Bogor,1,0,0,0,0,570496,10.0,1,3
+Resort Highlander,0,Taman Sari,Bogor,0,1,1,1,0,413223,2.4,3,4
+Airy Sentul Raya Jakarta KM 49.5 Bogor,3,Sukaraja,Bogor,1,0,1,1,0,446657,8.4,3,2
+Villa Yosky,0,Bogor Barat,Bogor,1,0,0,1,0,909091,10.0,2,4
+Kamar Keluarga Bogor,0,Dramaga,Bogor,1,0,0,0,0,148760,9.6,1,4
+RedDoorz @ Pandu Raya Bogor,2,Bogor Utara,Bogor,1,0,0,0,0,194214,10.0,1,3
+Hotel Permata Alam,3,Cisarua,Bogor,1,0,1,1,0,181818,6.8,3,2
+RedDoorz near Stasiun Kota Bogor,1,Bogor,Bogor,0,0,0,0,0,227272,10.0,0,4
+Lagoon Guest House,2,Bogor Tengah,Bogor,1,0,0,0,0,190082,8.8,1,3
+Nirmala Resort,2,Tanah Sareal,Bogor,1,0,0,0,0,161157,4.4,1,3
+Hotel Asri Cirebon,3,Lemahwungkuk,Cirebon,1,0,0,1,1,322314,8.8,3,2
+Cordela Hotel Cirebon,2,Kesambi,Cirebon,1,1,1,0,1,300000,8.9,4,2
+C Hotel Cirebon,3,Kesambi,Cirebon,1,0,0,0,0,156942,8.2,1,3
+Hotel NEO Cirebon,3,Kejaksan,Cirebon,1,1,1,0,1,255537,8.7,4,2
+Aston Cirebon Hotel & Convention Center,4,Kedawung,Cirebon,1,1,1,1,1,968000,8.8,5,1
+Metland Hotel Cirebon,3,Kejaksan,Cirebon,1,1,1,0,1,371901,8.7,4,2
+Swiss-Belhotel Cirebon,4,Kesambi,Cirebon,1,1,1,1,1,607438,8.8,5,1
+Hotel Citradream Cirebon,2,Kesambi,Cirebon,1,0,1,0,0,272727,8.5,2,3
+Seaview Cottage Cirebon Waterland,3,Lemahwungkuk,Cirebon,1,0,1,1,1,619835,7.6,4,2
+Airy Eco Stasiun Cirebon Siliwangi 87,1,Kejaksan,Cirebon,1,0,0,0,0,124586,6.4,1,4
+The Luxton Cirebon Hotel And Convention,4,Kejaksan,Cirebon,1,1,1,1,1,1818181,9.3,5,1
+Desa Alamanis,4,Beber,Cirebon,1,1,1,1,1,730579,8.8,5,1
+Apita Express Hotel,0,Kesambi,Cirebon,1,0,1,0,0,165289,8.3,2,4
+RedDoorz Plus near Alun Alun Kejaksan Cirebon,3,Kejaksan,Cirebon,1,0,0,0,0,103305,9.1,1,3
+Verse Hotel Cirebon,3,Kedawung,Cirebon,1,1,1,0,0,304132,8.4,3,2
+Vinotel Cirebon,0,Kesambi,Cirebon,1,1,1,0,0,198347,8.6,3,4
+BATIQA Hotel Cirebon,3,Kesambi,Cirebon,1,1,1,0,0,330578,9.0,3,2
+Hotel Sampurna,0,Kejaksan,Cirebon,1,0,0,0,0,181818,9.0,1,4
+Amaris Hotel Cirebon,2,Kejaksan,Cirebon,1,0,0,0,0,296529,8.7,1,3
+Hotel Prima Cirebon,3,Kejaksan,Cirebon,1,0,1,1,0,364608,8.4,3,2
+Size Inn Hotel,2,Kedawung,Cirebon,1,0,1,0,0,169421,8.8,2,3
+Hotel Tryas,0,Kejaksan,Cirebon,1,0,1,0,0,247934,8.6,2,4
+Dewanti Hotel,2,Kejaksan,Cirebon,1,0,0,0,0,247935,8.4,1,3
+Hotel Lotus Cirebon,1,Kesambi,Cirebon,1,0,1,0,0,239669,8.2,2,4
+Hotel Satria Cirebon,0,Harjamukti,Cirebon,1,1,1,0,1,198347,8.2,4,4
+Ono's Hotel,2,Kejaksan,Cirebon,1,0,1,0,0,239235,9.0,2,3
+Hotel Santika Cirebon,3,Kejaksan,Cirebon,1,0,1,1,1,578512,8.6,4,2
+RedDoorz near Gua Sunyaragi,2,Kedawung,Cirebon,1,0,0,0,0,148760,8.2,1,3
+Hotel Amanah Benua,0,Harjamukti,Cirebon,1,0,1,0,1,165289,8.6,3,4
+Hotel Intan Cirebon,3,Pekalipan,Cirebon,1,1,1,1,0,272727,7.8,4,2
+ibis budget Cirebon,2,Kejaksan,Cirebon,1,0,0,0,0,262034,10.0,1,3
+Horton Hotel,0,Kejaksan,Cirebon,1,0,1,0,1,198347,8.5,3,4
+Sutan Raja Hotel,2,Kedawung,Cirebon,1,1,1,0,0,318182,7.7,3,2
+Hotel Wisma Sunyaragi,1,Kesambi,Cirebon,1,0,1,1,0,206612,7.8,3,4
+Grand Dian Boutique Hotel Cirebon,3,Kejaksan,Cirebon,1,1,1,0,1,210413,8.6,4,2
+Tenacity Guest House,0,Cirebon,Cirebon,1,0,0,0,0,121901,8.2,1,4
+Hotel Santun Cirebon Syariah,2,Sumber,Cirebon,1,0,0,0,0,194215,8.5,1,3
+Airy Syariah CSB Garuda Raya 20 Cirebon,1,Kesambi,Cirebon,1,0,0,0,0,135328,8.6,1,4
+Virtual Rooms Cirebon Hotel Taman Pemuda 88,2,Kesambi,Cirebon,1,0,1,0,1,185950,9.2,3,2
+DENOFE HOUSE,0,Kesambi,Cirebon,1,0,0,0,0,185950,8.7,1,4
+Sapadia Hotel Cirebon,2,Harjamukti,Cirebon,1,1,1,0,0,293631,6.9,3,2
+Hotel The Radiant,2,Beber,Cirebon,1,0,1,1,0,338843,7.4,3,2
+Pia Hotel Cirebon,2,Kejaksan,Cirebon,1,0,1,0,1,190083,7.8,3,2
+Hotel Priangan Cirebon,1,Kejaksan,Cirebon,1,0,0,0,0,256198,8.3,1,4
+Cirebon Plaza Hotel,2,Kejaksan,Cirebon,1,0,1,0,0,272727,6.9,2,3
+Airy Eco Syariah Kedawung Sakura 10 Cirebon,1,Kedawung,Cirebon,1,0,0,0,0,140851,8.8,1,4
+Wisma Bahtera,0,Kejaksan,Cirebon,1,0,1,0,1,194463,7.9,3,4
+Airy Alun Alun Pamitran Cirebon,3,Kejaksan,Cirebon,1,0,1,0,0,298016,8.4,2,3
+Airy Eco Stasiun Cirebon Kapten Damsur 15,1,Kejaksan,Cirebon,1,0,0,0,0,194132,9.0,1,4
+Hotel Permata Hijau Cirebon,0,Kejaksan,Cirebon,0,0,1,0,0,247934,7.9,1,4
+Airy Eco Kejaksaan Cangkring 7 Cirebon,1,Kejaksan,Cirebon,1,0,0,0,0,151136,10.0,1,4
+Airy Eco Syariah CSB Pecilon Indah Satu 3 Cirebon,1,Kedawung,Cirebon,1,0,0,0,0,148264,7.2,1,4
+Airy Grage City Ahmad Yani 39 Cirebon,3,Harjamukti,Cirebon,1,0,1,0,0,213057,8.4,2,3
+Airy Sukapura DR Wahidin 52 Cirebon,1,Kejaksan,Cirebon,1,0,1,0,1,192119,6.0,3,4
+Kos Pondok Mas,0,Kejaksan,Cirebon,1,0,0,0,0,157024,7.8,1,4
+Langensari Hotel Cirebon,1,Kejaksan,Cirebon,1,0,0,0,0,289256,9.1,1,4
+Hotel Srikandi Cirebon,0,Kedawung,Cirebon,1,0,0,0,0,166261,9.2,1,4
+Villa Alvina Cirebon,0,Dukupuntang,Cirebon,0,0,0,0,0,152893,7.6,0,4
+RedDoorz near Kejaksan Station Cirebon,2,Kejaksan,Cirebon,1,0,0,0,0,144628,7.6,1,3
+RedDoorz Plus @ Tuparev Cirebon,3,Kedawung,Cirebon,1,0,0,0,0,165289,8.7,1,3
+RedDoorz near Pasar Pagi Cirebon,2,Kejaksan,Cirebon,1,0,0,0,0,148760,6.4,1,3
+Smile Hotel,2,Kedawung,Cirebon,1,0,0,0,0,165289,7.9,1,3
+Qintani Hotel Cirebon,3,Kedawung,Cirebon,1,1,0,0,0,181818,10.0,2,3
+Red Planet Bekasi,2,Bekasi Timur,Bekasi,1,0,1,0,0,247940,8.5,2,3
+HARRIS Hotel & Conventions Bekasi,4,Bekasi Utara,Bekasi,1,1,1,1,1,568595,9.2,5,1
+Win Grand Hotel,4,Tambun Selatan,Bekasi,1,1,1,0,1,215702,7.9,4,1
+The Celecton Hotel Jababeka,4,Cikarang,Bekasi,1,1,1,1,1,289256,9.2,5,1
+Literooms Bekasi,3,Bekasi Selatan,Bekasi,1,0,1,1,1,223140,9.2,4,2
+Horison Ultima Bekasi,4,Bekasi Selatan,Bekasi,1,1,1,1,1,577712,9.1,5,1
+The Green Hotel Bekasi,2,Bekasi Selatan,Bekasi,1,0,1,0,0,272727,8.5,2,3
+favehotel Ahmad Yani Bekasi,3,Bekasi,Bekasi,1,0,1,1,1,328000,8.8,4,2
+Grand Zuri Jababeka Hotel,4,Cikarang,Bekasi,1,1,1,1,1,289256,9.0,5,1
+BATIQA Hotel Jababeka,3,Cikarang,Bekasi,1,1,1,0,1,264462,9.2,4,2
+Hotel Santika Mega City Bekasi,3,Bekasi Selatan,Bekasi,1,1,1,0,1,555785,8.9,4,2
+Hotel Santika Premiere Kota Harapan Indah Bekasi,4,Medan Satria,Bekasi,1,1,1,1,0,557851,9.0,4,1
+favehotel Jababeka Cikarang,3,Cikarang,Bekasi,1,0,1,0,0,238000,8.6,2,3
+Aston Imperial Bekasi Hotel & Conference Center,4,Bekasi Selatan,Bekasi,1,0,1,1,1,565200,8.7,4,1
+Merapi Merbabu Hotel Bekasi,4,Rawalumbu,Bekasi,1,0,1,1,0,429752,8.1,3,2
+Grand Cikarang Hotel,3,Cikarang,Bekasi,1,1,1,1,1,196281,8.1,5,1
+Amaris Hotel Bekasi Barat,2,Bekasi Selatan,Bekasi,1,0,1,0,0,388429,8.1,2,3
+Hotel 88 Bekasi,2,Rawalumbu,Bekasi,1,0,1,0,0,264463,9.0,2,3
+Fastrooms Bekasi,3,Bekasi Selatan,Bekasi,1,0,0,1,0,223760,8.8,2,3
+Igloo Hotel,3,Cikarang,Bekasi,1,0,0,0,1,235537,9.0,2,3
+Airy Eco Syariah Kalimalang KH Noer Ali Bekasi,1,Bekasi Barat,Bekasi,1,0,0,0,0,123735,8.4,1,4
+Primebiz Cikarang,3,Cikarang,Bekasi,1,1,1,1,1,272727,8.8,5,1
+@Hom Tambun,3,Tambun Selatan,Bekasi,1,1,1,1,0,330579,8.4,4,2
+MyRooms Bekasi,3,Bekasi Selatan,Bekasi,1,0,1,1,0,216694,9.1,3,2
+Harper Cikarang,3,Cikarang,Bekasi,1,0,1,1,1,388000,9.4,4,2
+Swiss-Belinn Cibitung,3,Cibitung,Bekasi,1,1,1,1,1,342975,10.0,5,1
+Citra Inn Hotel International & Restaurant,3,Cikarang,Bekasi,1,1,1,0,1,239669,8.6,4,2
+The Regia Tambun,2,Tambun Selatan,Bekasi,1,0,0,0,0,214876,8.9,1,3
+Eros Hotel Apartement,3,Bekasi Selatan,Bekasi,1,0,1,1,0,219008,6.8,3,2
+Hotel Sahid Jaya Lippo Cikarang,5,Cikarang,Bekasi,1,1,1,1,1,619835,7.4,5,1
+Hotel Mazaya,2,Bekasi Selatan,Bekasi,1,0,1,0,0,231405,8.0,2,3
+OYO Flagship 125 Appartel Grand Dhika City,2,Bekasi Timur,Bekasi,1,0,1,1,0,219421,8.8,3,2
+OYO 258 Flagship The Enviro Cikarang,2,Cikarang,Bekasi,1,0,0,0,0,863640,9.3,1,3
+President Executive Club,4,Cikarang,Bekasi,1,1,1,0,1,289256,9.0,4,1
+RedDoorz Premium @ Igloo Hotel,3,Cikarang,Bekasi,1,0,0,0,1,219008,9.7,2,3
+Sakura Park Hotel & Residence,4,Cikarang,Bekasi,1,1,1,1,1,495867,8.7,5,1
+Celecton Blue Cikarang,3,Cikarang,Bekasi,1,0,1,0,1,247933,9.1,3,2
+RedDoorz Plus near Stasiun Bekasi,3,Bekasi Timur,Bekasi,0,0,0,0,0,202479,10.0,0,3
+RedDoorz Plus @ Cikarang,3,Cikarang,Bekasi,0,0,0,0,0,144628,9.0,0,3
+Gran Surya Hotel Cikarang,2,Cikarang,Bekasi,0,0,0,0,0,166500,9.6,0,3
+Hotel Santika Cikarang,3,Cikarang,Bekasi,1,0,1,1,0,380661,8.5,3,2
+Metro Hotel,3,Cikarang,Bekasi,1,1,1,1,0,235537,8.1,4,2
+Holiday Inn Cikarang Jababeka,4,Bekasi,Bekasi,1,1,0,1,1,788252,9.4,4,1
+Two Nine Apartment,2,Bekasi Selatan,Bekasi,1,0,0,0,0,239669,7.7,1,3
+ibis Budget Cikarang Festival,3,Cikarang,Bekasi,1,0,0,0,0,270613,8.6,1,3
+Airy Cikarang Cibarusah Raya Ruko CBC Bekasi,1,Cikarang,Bekasi,1,0,0,0,0,195417,7.7,1,4
+Mini Lux,2,Cikarang,Bekasi,1,0,0,0,0,173554,10.0,1,3
+RedDoorz near Metropolitan Mall Bekasi,2,Bekasi Selatan,Bekasi,1,0,0,0,0,165289,5.2,1,3
+Melati Jakasampurna Guesthouse,1,Bekasi Barat,Bekasi,0,0,0,0,0,178154,7.6,0,4
+RedDoorz @ Jatiwaringin,2,Pondok Gede,Bekasi,1,0,0,0,0,238636,8.8,1,3
+Indoluxe Rent Apartement Bekasi,2,Bekasi Selatan,Bekasi,1,0,0,1,0,268595,6.8,2,3
+Marzeta Hotel Apartment,2,Bekasi Selatan,Bekasi,1,1,1,1,0,249587,7.1,4,2
+Ibis Styles Cikarang,3,Cikarang,Bekasi,1,1,1,0,1,276390,8.5,4,2
+Java Palace Hotel,4,Cikarang,Bekasi,1,1,1,1,0,528926,8.6,4,1
+RedDoorz @ Kawasan Industri Jababeka,2,Cikarang,Bekasi,1,0,0,0,0,169421,9.3,1,3
+The Margo Hotel,4,Beji,Depok,1,0,1,1,1,750000,9.1,4,1
+Airy Beji Margonda Raya 88 Depok,1,Beji,Depok,1,0,1,1,0,227355,6.0,3,4
+favehotel Margonda,3,Beji,Depok,1,0,1,0,0,348000,9.0,2,3
+Savero Hotel Depok,3,Beji,Depok,1,1,1,0,1,551240,9.4,4,2
+RedDoorz near Margo City,2,Beji,Depok,1,0,0,0,0,148760,9.3,1,3
+Margonda Residence 2,3,Beji,Depok,1,0,1,1,1,165289,8.0,4,2
+Apartmen Margonda Residence IV & V By LzyRoom,3,Beji,Depok,0,0,0,1,0,196528,8.7,1,3
+Comfortable Room Depok,3,Beji,Depok,0,1,1,1,1,198347,7.8,4,2
+DSY Apartment Margonda Residence 4,2,Beji,Depok,0,1,1,1,0,231405,7.8,3,2
+Margonda Residence 3,2,Beji,Depok,1,0,0,1,0,214876,7.0,2,3
+Margonda Residence 45,0,Beji,Depok,0,0,0,1,0,190083,6.0,1,4
+DSY Apartment Margonda Residence 2,2,Beji,Depok,0,1,1,1,0,223140,8.0,3,2
+Mares 3 By Ria,1,Beji,Depok,0,0,0,0,0,206612,5.4,0,4
+Bijak Panorama,0,Beji,Depok,1,0,1,1,0,264463,7.0,3,4
+RedDoorz @ Apartement Margonda Residence Tower 2,2,Beji,Depok,1,0,0,0,0,247107,9.7,1,3
+Apartemen Margonda Residence 2 By Hoostia,3,Beji,Depok,0,0,1,0,0,223140,2.8,1,3
+DSY Apartment Margonda Residence 3,2,Beji,Depok,0,1,1,1,0,233884,8.4,3,2
+WJY Apartment Margonda Residence 5,2,Beji,Depok,1,0,1,1,1,207345,4.4,4,2
+DSY Apartment Margonda Residence 5,2,Beji,Depok,0,1,1,1,0,256198,8.1,3,2
+Surya Kencana Seaside Hotel,3,Pantai Barat,Pangandaran,1,0,1,1,0,368182,8.3,3,2
+Sun In Pangandaran Hotel,3,Pantai Timur,Pangandaran,1,0,1,1,1,367253,8.4,4,2
+d'BILZ Hotel,2,Pantai Barat,Pangandaran,1,0,1,1,0,413223,7.8,3,2
+Nyiur Resort Hotel,3,Pantai Barat,Pangandaran,1,1,1,1,1,283058,8.7,5,1
+Hotel Grand Pacific Pangandaran,2,Panunjang,Pangandaran,1,0,1,1,0,318272,8.6,3,2
+Pantai Indah Barat Hotel Pangandaran,3,Pantai Timur,Pangandaran,1,0,0,1,0,495868,8.5,2,3
+Holiday Beach Inn,0,Pantai Barat,Pangandaran,1,0,1,1,0,263636,8.6,3,4
+In Out Hotel Pangandaran,2,Pantai Barat,Pangandaran,1,0,0,0,0,157025,8.6,1,3
+Ahlen Pangandaran,0,Pantai Timur,Pangandaran,1,1,1,0,0,165289,8.6,3,4
+Uni Beach Hotel,0,Pananjung,Pangandaran,1,0,0,1,0,330578,8.9,2,4
+Nyiur Indah Beach Hotel,3,Pantai Barat,Pangandaran,1,0,1,1,0,385026,9.5,3,2
+Krisna Beach Hotel 2 Pangandaran,3,Pantai Barat,Pangandaran,1,0,1,1,0,165289,7.4,3,2
+OYO 370 Hotel Sofia Pangandaran,2,Pangandaran,Pangandaran,1,0,0,1,0,329840,10.0,2,3
+Hotel Paluvi,1,Pananjung,Pangandaran,1,0,1,0,0,264463,7.3,2,4
+HAU Eco Lodges Citumang,3,Parigi,Pangandaran,0,0,1,1,0,588843,10.0,2,3
+Pantai Indah Timur Resort Hotel Pangandaran,3,Pantai Timur,Pangandaran,1,0,0,1,0,826446,8.2,2,3
+The Arnawa Hotel,2,Pantai Barat,Pangandaran,1,0,1,1,0,537190,8.4,3,2
+Allamanda Beach Hotel dan Bungalow,0,Pananjung,Pangandaran,0,0,0,0,0,210744,9.6,0,4
+Eunike Surf Cottage,3,Cijulang,Pangandaran,0,0,0,0,0,268595,6.6,0,3
+The Ermaja's Pavilion Boutique Hotel & Villas,0,Cijulang,Pangandaran,1,0,0,0,1,322314,8.5,2,4
+Hotel Pamordian,0,Pantai Timur,Pangandaran,1,0,0,0,0,206612,7.2,1,4
+Komodo Island Hotel,0,Pananjung,Pangandaran,1,0,0,0,0,141176,7.9,1,4
+Hotel Grand Mutiara,2,Pananjung,Pangandaran,1,1,1,1,0,378112,8.6,4,2
+Homestay 28,0,Parigi,Pangandaran,1,1,1,0,0,144628,9.8,3,4
+Hotel Tirta Bahari,0,Cijulang,Pangandaran,0,0,1,0,0,340909,6.1,1,4
+Pondok RB Putera,0,Pantai Barat,Pangandaran,0,0,0,0,0,550964,2.4,0,4
+Villa Angela,0,Pananjung,Pangandaran,1,0,0,0,0,242975,9.2,1,4
+FATIH Homestay,0,Panunjang,Pangandaran,0,0,0,0,0,619835,10.0,0,4
+Amazon Bungalow & Cottages,1,Cijulang,Pangandaran,1,1,1,0,0,309917,9.4,3,4
+Hotel Pantai Jaya,2,Panunjang,Pangandaran,0,0,0,1,0,371901,8.8,1,3
+Fortuna Hotel,3,Panunjang,Pangandaran,1,0,1,1,0,330579,6.9,3,2
+Hotel Pantai Sri Rahayu,3,Pantai Timur,Pangandaran,0,0,0,1,0,371901,6.8,1,3
+MaxOneHotels at Bounty Sukabumi,3,Cikole,Sukabumi,1,1,1,1,0,330578,8.6,4,2
+Anugrah Hotel Sukabumi,4,Cikole,Sukabumi,1,1,1,1,1,289256,8.8,5,1
+Airy Karamat Bhayangkara 127 Sukabumi,3,Gunung Puyuh,Sukabumi,1,0,1,0,0,233966,7.2,2,3
+Horison Sukabumi,3,Cikole,Sukabumi,1,1,1,1,1,355372,9.0,5,1
+Hotel Permata Hijau Sukabumi,1,Gunung Puyuh,Sukabumi,1,0,1,1,0,235537,7.9,3,4
+Balcony Hotel,3,Cikole,Sukabumi,1,0,1,0,1,268595,9.0,3,2
+Hotel Augusta Pelabuhan Ratu,2,Pelabuhan Ratu,Sukabumi,1,1,1,1,0,227273,7.4,4,2
+Hotel Augusta Sukabumi,2,Cicantayan,Sukabumi,1,0,1,1,0,177273,8.2,3,2
+Sparks Odeon Sukabumi,3,Warudoyong,Sukabumi,1,1,1,0,0,354545,8.9,3,2
+77 Sunset Plaza Hotel,0,Cisolok,Sukabumi,1,0,1,1,0,511570,8.4,3,4
+Grand Inna Samudra Beach,4,Cikakak,Sukabumi,1,1,1,1,1,551487,8.4,5,1
+Pondok Alief Ujung Genteng,0,Ciracap,Sukabumi,0,0,0,0,0,165289,8.4,0,4
+Iscalton Courteous Hotel,2,Cicurug,Sukabumi,1,1,1,0,0,254545,7.4,3,2
+Karang Aji Beach Villa,0,Cisolok,Sukabumi,0,1,1,1,1,206612,5.8,4,4
+Wisma Mila Tepi Pantai Karang Hawu,1,Cisolok,Sukabumi,0,0,0,0,0,280402,8.6,0,4
+Ocean Queen Resort,3,Cisolok,Sukabumi,1,1,1,1,1,516529,8.0,5,1
+Bayu Amrta Hotel,2,Pelabuhan Ratu,Sukabumi,1,0,1,1,0,329752,6.8,3,2
+RedDoorz near Alun Alun Kota Sukabumi,2,Cikole,Sukabumi,1,0,0,0,0,177685,9.3,1,3
+Hotel Citepus Indah,1,Pelabuhan Ratu,Sukabumi,1,0,0,0,0,238199,4.8,1,4
+Hotel NEW Grand Desa Resort Cimaja,1,Cikakak,Sukabumi,1,0,1,1,0,233021,6.8,3,4
+Hotel Lagusa,3,Pelabuhan Ratu,Sukabumi,1,0,1,1,1,247934,7.5,4,2
+Wisma Pantai Citepus (Tepi Pantai),1,Pelabuhan Ratu,Sukabumi,1,0,0,0,0,319756,9.4,1,4
+Tirtagangga Hotel,3,Tarogong Kaler,Garut,1,0,1,1,0,495868,8.5,3,2
+Kamojang Green Hotel & Resort,4,Samarang,Garut,1,1,1,1,1,652892,8.2,5,1
+Kampung Sampireun Resort & Spa,4,Samarang,Garut,1,1,1,1,0,504298,8.4,4,1
+favehotel Cimanuk Garut,3,Tarogong Kidul,Garut,1,0,1,1,1,445000,8.6,4,2
+Kampung Sumber Alam Garut,3,Tarogong Kaler,Garut,1,1,1,1,0,578512,8.3,4,2
+Harmoni Hotel Garut,3,Tarogong Kaler,Garut,1,0,1,1,1,464669,9.2,4,2
+Papandayan Camping Ground,0,Cisurupan,Garut,0,0,0,0,0,206612,7.4,0,4
+Sabda Alam Hotel & Resort,3,Tarogong Kaler,Garut,1,1,1,1,0,891736,7.6,4,2
+Familie Ayu Garut,0,Garut,Garut,1,1,0,0,0,165289,9.3,2,4
+Hotel Ramayana Garut,3,Tarogong Kidul,Garut,1,1,0,0,0,289256,7.7,2,3
+Hotel Alamanda Garut,2,Tarogong Kidul,Garut,0,0,0,0,1,205785,6.3,1,3
+Hotel Bintang Redannte,3,Tarogong Kaler,Garut,1,0,1,0,0,268595,8.2,2,3
+Bukit Alamanda Resort & Resto,3,Tarogong Kidul,Garut,0,1,1,1,1,356694,7.4,4,2
+Green Hills Garut by Desti,2,Tarogong Kidul,Garut,0,0,0,0,0,289256,8.0,0,3
+Queen Familly Villa Syari'ah,3,Garut,Garut,1,0,0,0,0,475207,9.2,1,3
+Alana Family Villa,2,Tarogong Kidul,Garut,1,0,0,0,0,363636,9.8,1,3
+Hotel Tiara Rex,2,Tarogong Kidul,Garut,1,0,1,0,0,330579,8.0,2,3
+Penginapan Citra Agung Pantai Santolo,1,Cikelet,Garut,0,0,0,0,0,123967,8.8,0,4
+Hotel Augusta Garut,0,Tarogong Kaler,Garut,1,0,1,0,0,290909,7.3,2,4
+Villa Aleyra,0,Tarogong Kidul,Garut,1,0,1,0,0,314050,9.0,2,4
+Green Hills Resort Blok B - 24 Syariah,3,Tarogong Kidul,Garut,0,0,0,1,0,371901,10.0,1,3
+Suminar Hotel,0,Tarogong Kidul,Garut,1,0,1,0,1,247934,7.7,3,4
+Penginapan Karanglaut Sayangheulang,2,Pameungpeuk,Garut,0,0,0,0,0,74380,7.0,0,3
+Penginapan Karanglaut Santolo,0,Cikelet,Garut,0,0,0,0,0,136364,2.0,0,4
+Balinda Homestay,1,Pameungpeuk,Garut,1,0,0,0,0,206612,5.6,1,4
+Darajat Homestay,2,Pasirwangi,Garut,0,0,0,0,0,1157025,7.2,0,3
+Hotel Asri Sumedang,3,Sumedang Utara,Sumedang,1,0,0,0,1,376033,8.9,2,3
+Easton Park Apartment By Kamasi Room,0,Jatinangor,Sumedang,0,0,0,1,0,185950,10.0,1,4
+Jatinangor Hotel & Restaurant,2,Jatinangor,Sumedang,1,0,1,0,0,308678,6.3,2,3
+Sahid Skyland City Jatinangor,3,Jatinangor,Sumedang,1,1,1,1,1,412397,8.6,5,1
+Sapphire Home Hotel,2,Sumedang Utara,Sumedang,1,1,1,0,1,305785,6.8,4,2
+Airy UNPAD Jatinangor KM 21.5 Sumedang,1,Jatinangor,Sumedang,1,0,0,0,0,250743,8.8,1,4
+Easton Park Apartment Jatinangor by Diajeng Diah,0,Jatinangor,Sumedang,0,1,1,1,0,185950,5.8,3,4
+City Edge Guest House,1,Jatinangor,Sumedang,1,0,1,0,0,315794,8.6,2,4
+RedDoorz near Jatinangor Town Square,2,Jatinangor,Sumedang,1,0,0,0,0,126446,10.0,1,3
+Amory Boutique Hotel,0,Sumedang Utara,Sumedang,1,0,1,0,0,309917,9.0,2,4
+D'Kost 265 Guest House Manage by Arilla,0,Jatinangor,Sumedang,1,0,0,0,0,247934,7.5,1,4
+Pinewood Apartment By Muslim,1,Jatinangor,Sumedang,0,0,0,0,0,216860,10.0,0,4
+Easton Park Apartment By WATI,2,Jatinangor,Sumedang,0,0,0,1,0,216364,5.0,1,3
+OYO Flagship 214 Appartel Taman Melati Jatinangor,2,Jatinangor,Sumedang,1,0,0,0,0,527489,8.8,1,3
+Easton Park Apartment Jatinangor By Ricky 7-RM,2,Jatinangor,Sumedang,1,0,1,1,1,247934,7.8,4,2
+Pinewood Apartment By Fery,1,Jatinangor,Sumedang,0,0,0,1,0,261074,5.2,1,4
+Hotel Rangga Inn,3,Pasirkareumbi,Subang,1,1,1,0,1,163636,8.1,4,2
+Paris Day Pamanukan,1,Pamanukan,Subang,1,0,1,0,0,293388,8.1,2,4
+favehotel Subang,3,Karanganyar,Subang,1,0,1,0,1,568594,8.7,3,2
+Grant Hotel Subang,3,Karanganyar,Subang,1,0,1,0,1,252066,8.4,3,2
+Tea Garden Resort,4,Sagalaherang,Subang,1,1,1,1,0,660000,7.2,4,1
+Hotel Lotus Subang,0,Cigadung,Subang,1,0,0,0,0,256197,9.1,1,4
+Villa AlBadar,0,Ciater,Subang,1,0,1,1,0,619835,6.3,3,4
+Marbella Twin Waterfall Resort Ciater,4,Jalan Cagak,Subang,1,0,1,0,0,379339,7.8,2,3
+Nissa Rahmi Homestay,0,Subang,Subang,1,0,0,0,0,153519,9.6,1,4
+Rorompok Homan,1,Kasomalang,Subang,1,0,1,0,0,333678,8.4,2,4
+Villa ChavaMinerva Kayu - Ciater Highland Resort (Bandung),3,Ciater,Subang,0,1,0,0,0,734078,8.0,1,3
+Villa Sasky Ciater Highland Resort,1,Ciater,Subang,0,0,0,1,0,826446,6.1,1,4
+Villa ChavaMinerva Dima - Ciater Highland Resort (Bandung),3,Ciater,Subang,0,1,0,0,0,935828,8.8,1,3
+Villa Ranchero 7 - Ciater Highland Resort,2,Ciater,Subang,0,0,1,1,0,665251,6.2,2,3
+Villa Ciater Highland,0,Ciater,Subang,0,0,0,1,0,991736,8.7,1,4
+RedDoorz Resort @ Ciater,1,Ciater,Subang,0,0,0,1,0,392562,6.0,1,4
+Horison Tasikmalaya,4,Tasikmalaya,Tasikmalaya,1,0,1,1,1,442149,8.9,4,1
+favehotel Tasikmalaya,3,Cipedes,Tasikmalaya,1,0,1,0,0,328000,9.4,2,3
+Shanrilla Hotel,0,Cihideung,Tasikmalaya,1,1,1,0,0,190083,7.8,3,4
+Hotel Asri Tasikmalaya,2,Cihideung,Tasikmalaya,1,0,1,1,1,297934,9.0,4,2
+City Hotel Tasikmalaya,3,Cihideung,Tasikmalaya,1,0,1,0,0,289256,7.6,2,3
+Flamboyan Hotel Tasikmalaya,3,Tawang,Tasikmalaya,1,0,1,0,0,338843,8.3,2,3
+Hotel Santika Tasikmalaya,3,Cihideung,Tasikmalaya,1,0,1,1,1,458429,8.9,4,2
+Grand Metro Hotel Tasikmalaya,3,Cihideung,Tasikmalaya,1,0,1,0,1,458678,9.0,3,2
+Hotel Harmoni Tasikmalaya,3,Tawang,Tasikmalaya,1,0,1,0,0,386645,8.7,2,3
+DE NANGGELA'Z GUEST HOUSE,0,Tawang,Tasikmalaya,1,0,1,0,0,220107,9.4,2,4
+Ramayana Hotel & Restaurant,2,Indihiang,Tasikmalaya,1,0,1,1,0,359504,8.0,3,2
+Hotel Wijaya Kusumah,1,Mangkubumi,Tasikmalaya,0,0,0,0,0,214876,7.2,0,4
+Hotel Borobudur,0,Cihideung,Tasikmalaya,1,0,1,0,0,247934,2.0,2,4
+Taman Yokima Resort,1,Cipatujah,Tasikmalaya,0,1,1,0,0,371901,8.4,2,4
+Grand Permata Hotel,3,Bungursari,Purwakarta,1,1,1,1,1,346281,8.6,5,1
+Prime Plaza Hotel Purwakarta,5,Bungursari,Purwakarta,1,1,1,1,1,619834,8.9,5,1
+The Colorville Alam Sari Wates,0,Darangdan,Purwakarta,0,0,1,1,1,105785,8.2,3,4
+Hotel Khalista,2,Babakancikao,Purwakarta,1,1,1,0,0,235537,7.4,3,2
+Hotel Khalsa Indah,1,Nageri Kaler,Purwakarta,1,1,1,0,0,262810,8.2,3,4
+Grand Situ Buleud by MyHome Hospitality,3,Purwakarta,Purwakarta,1,0,0,1,0,356860,8.4,2,3
+D'Cabin Hotel Container Jatiluhur,3,Jatiluhur,Purwakarta,0,0,1,1,0,479339,8.8,2,3
+Hotel Permata Purwakarta,2,Bungursari,Purwakarta,1,1,1,0,1,285124,7.7,4,2
+La Derra Hotel,1,Sindangkasih,Purwakarta,1,1,1,0,0,261488,8.4,3,4
+MP Hotel by MyHome Hospitality,2,Purwakarta,Purwakarta,1,0,0,0,0,182645,3.2,1,3
+Hotel Cibatu,1,Cibatu,Purwakarta,1,0,0,0,0,218765,5.8,1,4
+Hotel Flamingo,3,Losarang,Indramayu,1,0,1,0,0,289256,5.0,2,3
+Wiwi Perkasa I,0,Karanganyar,Indramayu,1,0,0,0,0,165289,7.1,1,4
+FITRA Hotel Majalengka,3,Munjul,Majalengka,1,0,1,0,1,454545,8.9,3,2
+Sangkan Resort Aqua Park,3,Cilimus,Kuningan,1,0,1,1,1,991736,8.5,4,2
+Grand Purnama by Cordela Hotel,3,Kuningan,Kuningan,1,0,1,0,1,351240,9.6,3,2
+Resort Prima Sangkanhurip,2,Cigandamekar,Kuningan,1,0,1,1,0,289256,8.0,3,2
+Wisma Atensi,2,Purwawinangun,Kuningan,1,0,0,0,0,248929,7.6,1,3
+Montana Hotel,3,Cigandamekar,Kuningan,1,0,1,1,1,454545,6.1,4,2
+Brits Hotel Karawang,4,Telukjambe Timur,Karawang,1,1,1,1,1,380165,9.0,5,1
+Voxstay Karawang,2,Karawang Barat,Karawang,1,0,0,0,0,188430,9.0,1,3
+Swiss-Belinn Karawang,3,Karawang Barat,Karawang,1,1,1,1,1,363140,9.0,5,1
+PrimeBiz Karawang,3,Cikampek,Karawang,1,0,1,0,0,297521,8.6,2,3
+Akshaya Hotel Karawang,3,Telukjambe Timur,Karawang,1,0,1,1,1,373394,9.1,4,2
+Hotel Omega Karawang,1,Karawang Barat,Karawang,1,0,1,0,0,243802,7.9,2,4
+Mercure Karawang,4,Karawang,Karawang,1,1,0,1,1,437801,9.4,4,1
+BATIQA Hotel and Apartments Karawang,3,Ciampel,Karawang,1,1,1,1,1,402893,8.6,5,1
+Front One Boutique Karawang,2,Telukjambe Timur,Karawang,1,0,1,0,1,241322,9.6,3,2
+Citra Grand Hotel & Residence,4,Telukjambe Barat,Karawang,1,1,1,1,1,386364,7.7,5,1
+Amaris Hotel Karawang,2,Telukjambe Timur,Karawang,1,0,1,0,0,293305,8.6,2,3
+"Resinda Hotel Karawang, Managed by Padma Hotels",4,Karawang,Karawang,1,0,0,1,0,578512,8.9,2,3
+Puri KIIC Golf View Hotel,4,Telukjambe Timur,Karawang,1,1,1,1,1,578512,8.2,5,1
+Delonix Hotel,4,Telukjambe Timur,Karawang,1,1,1,1,1,1067325,8.9,5,1
